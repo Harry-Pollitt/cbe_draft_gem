@@ -463,7 +463,7 @@
     - id: 1p2cbxl_c
     - name: 1-Pyrroline-2-carboxylate
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C5H6NO2
     - notes: !!omap
       - CHARGE: '-1.0'
@@ -1278,7 +1278,7 @@
     - id: 2ahbut_c
     - name: (S)-2-Aceto-2-hydroxybutanoate
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C6H9O4
     - notes: !!omap
       - CHARGE: '-1.0'
@@ -2586,7 +2586,7 @@
     - id: 3hbcoa__R_c
     - name: (R)-3-Hydroxybutyryl-CoA
     - compartment: C_c
-    - charge: 0
+    - charge: -4
     - formula: C25H38N7O18P3S
     - notes: !!omap
       - FORMULA: C25H38N7O18P3S
@@ -5349,7 +5349,7 @@
     - id: acadl_c
     - name: Acetyl adenylate
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C12H14N5O8P
     - notes: !!omap
       - FORMULA: C12H14N5O8P
@@ -5760,7 +5760,7 @@
     - id: acmanap_c
     - name: N-Acetyl-D-mannosamine 6-phosphate
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C8H14NO9P
     - notes: !!omap
       - CHARGE: '-2.0'
@@ -5785,7 +5785,7 @@
     - id: acmum6p_c
     - name: N-acetylmuramate 6-phosphate
     - compartment: C_c
-    - charge: 0
+    - charge: -3
     - formula: C11H17NO11P
     - notes: !!omap
       - CHARGE: '-3.0'
@@ -10671,7 +10671,7 @@
     - id: dccoa_c
     - name: Decanoyl CoA C31H50N7O17P3S
     - compartment: C_c
-    - charge: 0
+    - charge: -4
     - formula: C31H50N7O17P3S
     - notes: !!omap
       - FORMULA: C31H50N7O17P3S
@@ -10930,7 +10930,7 @@
     - id: ddcap_c
     - name: Dodecanoly-phosphate (n-C12:0)
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C12H24O5P
     - notes: !!omap
       - FORMULA: C12H24O5P
@@ -10941,7 +10941,7 @@
     - id: ddcoa_c
     - name: Dodecanoyl CoA  n C120CoA  C33H54N7O17P3S
     - compartment: C_c
-    - charge: 0
+    - charge: -4
     - formula: C33H54N7O17P3S
     - notes: !!omap
       - FORMULA: C33H54N7O17P3S
@@ -17450,7 +17450,7 @@
     - id: hdcap_c
     - name: Hexadecanoyl-phosphate (n-C16:0)
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C16H32O5P
     - notes: !!omap
       - FORMULA: C16H32O5P
@@ -17497,7 +17497,7 @@
     - id: hdceap_c
     - name: Hexadecanoyl-phosphate (n-C16:1)
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C16H30O5P
     - notes: !!omap
       - FORMULA: C16H30O5P
@@ -21963,7 +21963,7 @@
     - id: myrsACP_c
     - name: Myristoyl-ACP (n-C14:0ACP)
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C398H629N96O143PS3
     - notes: !!omap
       - CHARGE: '0'
@@ -23109,7 +23109,7 @@
     - id: oc2coa_c
     - name: Trans-Oct-2-enoyl-CoA
     - compartment: C_c
-    - charge: 0
+    - charge: -4
     - formula: C29H44N7O17P3S
     - notes: !!omap
       - CHARGE: '-4.0'
@@ -23247,7 +23247,7 @@
     - id: ocdcap_c
     - name: Octadecanoyl-phosphate (n-C18:0)
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C18H36O5P
     - notes: !!omap
       - FORMULA: C18H36O5P
@@ -23390,7 +23390,7 @@
     - id: octeACP_c
     - name: Cis-octadec-11-enoyl-[acyl-carrier protein] (n-C18:1)
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C402H635O143N96P1S3
     - notes: !!omap
       - CHARGE: '0'
@@ -24092,7 +24092,7 @@
     - id: palmACP_c
     - name: Palmitoyl-ACP (n-C16:0ACP)
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C400H633N96O143PS3
     - notes: !!omap
       - CHARGE: '0'
@@ -24510,7 +24510,7 @@
     - name: Phenylethyl alcohol
     - compartment: C_c
     - charge: 0
-    - formula: C8H9O
+    - formula: C8H10O
     - notes: !!omap
       - FORMULA: C8H9O
     - annotation: !!omap
@@ -24520,7 +24520,7 @@
     - name: Phenylethyl alcohol
     - compartment: C_e
     - charge: 0
-    - formula: C8H9O
+    - formula: C8H10O
     - notes: !!omap
       - FORMULA: C8H9O
     - annotation: !!omap
@@ -28034,7 +28034,7 @@
     - id: srch_c
     - name: Sirohydrochlorin C42H38N4O16
     - compartment: C_c
-    - charge: 0
+    - charge: -8
     - formula: C42H38N4O16
     - notes: !!omap
       - CHARGE: '-8.0'
@@ -28724,7 +28724,7 @@
     - id: td2coa_c
     - name: Trans-Tetradec-2-enoyl-CoA
     - compartment: C_c
-    - charge: 0
+    - charge: -4
     - formula: C35H56N7O17P3S
     - notes: !!omap
       - CHARGE: '-4.0'
@@ -28804,7 +28804,7 @@
     - id: tdecoa_c
     - name: Tetradecenoyl-CoA (n-C14:1CoA)
     - compartment: C_c
-    - charge: 0
+    - charge: -4
     - formula: C35H56N7O17P3S
     - notes: !!omap
       - CHARGE: '-4.0'
@@ -29250,7 +29250,7 @@
     - id: trans_dd2coa_c
     - name: Trans Dodec 2 enoyl CoA C33H52N7O17P3S
     - compartment: C_c
-    - charge: 0
+    - charge: -4
     - formula: C33H52N7O17P3S
     - notes: !!omap
       - FORMULA: C33H52N7O17P3S
@@ -29703,7 +29703,7 @@
     - id: ttdcap_c
     - name: Tetradecanoyl-phosphate (n-C14:0)
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C14H28O5P
     - notes: !!omap
       - FORMULA: C14H28O5P
@@ -32244,6 +32244,7 @@
     - id: AALDH
     - name: Aryl alcohol dehydrogenase
     - metabolites: !!omap
+      - h_c: -1.0
       - nad_c: 1.0
       - nadh_c: -1.0
       - pacald_c: -1.0
@@ -36202,7 +36203,6 @@
       - gly_c: 1.0
       - gly_pro__L_c: -1.0
       - h2o_c: -1.0
-      - h_c: 1.0
       - pro__L_c: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
