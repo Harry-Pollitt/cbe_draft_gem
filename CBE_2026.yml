@@ -43,7 +43,7 @@
     - id: 12dag3p_BS_c
     - name: 1 2 diacyl sn glycerol 3 phosphate C3436H6572O800P100
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C3436H6572O800P100
     - notes: !!omap
       - FORMULA: C3436H6572O800P100
@@ -336,7 +336,7 @@
     - id: 1ag3p_BS_c
     - name: 1 Acyl sn glycerol 3 phsophate C1868H3636O700P100
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C1868H3636O700P100
     - notes: !!omap
       - FORMULA: C1868H3636O700P100
@@ -405,7 +405,7 @@
     - id: 1hdec9eg3p_c
     - name: 1-hexadec-9-enoyl-sn-glycerol 3-phosphate
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C19H35O7P
     - notes: !!omap
       - FORMULA: C19H35O7P
@@ -2576,7 +2576,7 @@
     - id: 3hasp__L_c
     - name: Erythro 3 HydroxyL aspartate
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C4H6NO5
     - notes: !!omap
       - FORMULA: C4H6NO5
@@ -4151,7 +4151,7 @@
     - id: 5aizc_c
     - name: 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate
     - compartment: C_c
-    - charge: 0
+    - charge: -3
     - formula: C9H11N3O9P
     - notes: !!omap
       - CHARGE: '-3.0'
@@ -4533,7 +4533,7 @@
     - id: 6pgg_c
     - name: 6-Phospho-beta-D-glucosyl-(1,4)-D-glucose
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C12H21O14P
     - notes: !!omap
       - CHARGE: '-2.0'
@@ -6309,7 +6309,7 @@
     - id: ah6p__D_c
     - name: Arabino-3-hexulose-6-P
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C6H11O9P
     - notes: !!omap
       - FORMULA: C6H11O9P
@@ -6407,7 +6407,7 @@
     - id: air_c
     - name: 5-amino-1-(5-phospho-D-ribosyl)imidazole
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C8H12N3O7P
     - notes: !!omap
       - CHARGE: '-2.0'
@@ -6622,7 +6622,7 @@
     - id: ala_L_glu__L_c
     - name: Ala L glu L C8H13N2O5
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C8H13N2O5
     - notes: !!omap
       - FORMULA: C8H13N2O5
@@ -6634,7 +6634,7 @@
     - id: ala_L_glu__L_e
     - name: Ala L glu L C8H13N2O5
     - compartment: C_e
-    - charge: 0
+    - charge: -1
     - formula: C8H13N2O5
     - notes: !!omap
       - FORMULA: C8H13N2O5
@@ -7248,7 +7248,7 @@
     - id: ametam_c
     - name: S-Adenosylmethioninamine
     - compartment: C_c
-    - charge: 0
+    - charge: 2
     - formula: C14H24N6O3S
     - notes: !!omap
       - CHARGE: '2.0'
@@ -7273,7 +7273,7 @@
     - id: amob_c
     - name: S-Adenosyl-4-methylthio-2-oxobutanoate
     - compartment: C_c
-    - charge: -1
+    - charge: 0
     - formula: C15H19N5O6S
     - notes: !!omap
       - CHARGE: '-1'
@@ -7421,7 +7421,7 @@
     - id: apoACP_c
     - name: Apoprotein [acyl carrier protein]
     - compartment: C_c
-    - charge: 1
+    - charge: 0
     - formula: C373H583N94O136S2
     - notes: !!omap
       - CHARGE: '1'
@@ -7783,7 +7783,7 @@
     - id: argsuc_c
     - name: N(omega)-(L-Arginino)succinate
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C10H17N4O6
     - notes: !!omap
       - CHARGE: '-1.0'
@@ -10574,8 +10574,8 @@
     - id: db4p_c
     - name: 3,4-dihydroxy-2-butanone 4-phosphate
     - compartment: C_c
-    - charge: 0
-    - formula: C4H8O6P
+    - charge: -2
+    - formula: C4H7O6P
     - notes: !!omap
       - CHARGE: '-1.0'
       - FORMULA: C4H8O6P
@@ -10640,7 +10640,7 @@
     - id: dcamp_c
     - name: N6-(1,2-Dicarboxyethyl)-AMP
     - compartment: C_c
-    - charge: 0
+    - charge: -4
     - formula: C14H14N5O11P
     - notes: !!omap
       - CHARGE: '-4.0'
@@ -11373,7 +11373,7 @@
     - id: dhptdp_c
     - name: (4S)-4-hydroxy-5-phosphonooxypentane-2,3-dione
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C5H7O7P
     - notes: !!omap
       - FORMULA: C5H7O7P
@@ -11698,7 +11698,7 @@
     - id: dtbt_c
     - name: Dethiobiotin
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C10H17N2O3
     - notes: !!omap
       - CHARGE: '-1.0'
@@ -12278,7 +12278,7 @@
     - id: fa11coa_c
     - name: Iso C170 CoA C38H64N7O17P3S1
     - compartment: C_c
-    - charge: 0
+    - charge: -4
     - formula: C38H64N7O17P3S
     - notes: !!omap
       - FORMULA: C38H64N7O17P3S
@@ -12300,7 +12300,7 @@
     - id: fa12coa_c
     - name: Anteiso C170 CoA C38H64N7O17P3S1
     - compartment: C_c
-    - charge: 0
+    - charge: -4
     - formula: C38H64N7O17P3S
     - notes: !!omap
       - FORMULA: C38H64N7O17P3S
@@ -12322,7 +12322,7 @@
     - id: fa1coa_c
     - name: Iso C140 CoA C35H58N7O17P3S1
     - compartment: C_c
-    - charge: 0
+    - charge: -4
     - formula: C35H58N7O17P3S
     - notes: !!omap
       - FORMULA: C35H58N7O17P3S
@@ -12344,7 +12344,7 @@
     - id: fa3coa_c
     - name: Iso C150 CoA C36H60N7O17P3S1
     - compartment: C_c
-    - charge: 0
+    - charge: -4
     - formula: C36H60N7O17P3S
     - notes: !!omap
       - FORMULA: C36H60N7O17P3S
@@ -12366,7 +12366,7 @@
     - id: fa4coa_c
     - name: Anteiso C150 CoA C36H60N7O17P3S1
     - compartment: C_c
-    - charge: 0
+    - charge: -4
     - formula: C36H60N7O17P3S
     - notes: !!omap
       - FORMULA: C36H60N7O17P3S
@@ -12388,7 +12388,7 @@
     - id: fa6coa_c
     - name: Iso C160 CoA C37H62N7O17P3S1
     - compartment: C_c
-    - charge: 0
+    - charge: -4
     - formula: C37H62N7O17P3S
     - notes: !!omap
       - FORMULA: C37H62N7O17P3S
@@ -12857,7 +12857,7 @@
     - id: fmnRD_c
     - name: Flavin mononucleotide reduced C17H21N4O9P
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C17H23N4O9P
     - notes: !!omap
       - FORMULA: C17H23N4O9P
@@ -12869,7 +12869,7 @@
     - id: fmn_c
     - name: FMN C17H19N4O9P
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C17H21N4O9P
     - notes: !!omap
       - CHARGE: '0'
@@ -15623,7 +15623,7 @@
     - id: gly_glu__L_c
     - name: Gly glu L C7H11N2O5
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C7H11N2O5
     - notes: !!omap
       - FORMULA: C7H11N2O5
@@ -15635,7 +15635,7 @@
     - id: gly_glu__L_e
     - name: Gly glu L C7H11N2O5
     - compartment: C_e
-    - charge: 0
+    - charge: -1
     - formula: C7H11N2O5
     - notes: !!omap
       - FORMULA: C7H11N2O5
@@ -20574,7 +20574,7 @@
     - id: met_L_ala__L_c
     - name: Met L ala L C8H16N2O3S
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C8H15N2O3S
     - notes: !!omap
       - FORMULA: C8H15N2O3S
@@ -20586,7 +20586,7 @@
     - id: met_L_ala__L_e
     - name: Met L ala L C8H16N2O3S
     - compartment: C_e
-    - charge: 0
+    - charge: -1
     - formula: C8H15N2O3S
     - notes: !!omap
       - FORMULA: C8H15N2O3S
@@ -23849,7 +23849,7 @@
     - id: pa120_c
     - name: 1,2-didodecanoyl-sn-glycerol 3-phosphate
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C27H51O8P
     - notes: !!omap
       - CHARGE: '-2.0'
@@ -23862,7 +23862,7 @@
     - id: pa120_p
     - name: 1,2-didodecanoyl-sn-glycerol 3-phosphate
     - compartment: C_p
-    - charge: 0
+    - charge: -2
     - formula: C27H51O8P
     - notes: !!omap
       - CHARGE: '-2.0'
@@ -23875,7 +23875,7 @@
     - id: pa140_c
     - name: 1,2-ditetradecanoyl-sn-glycerol 3-phosphate
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C31H59O8P
     - notes: !!omap
       - CHARGE: '-2.0'
@@ -23898,7 +23898,7 @@
     - id: pa140_p
     - name: 1,2-ditetradecanoyl-sn-glycerol 3-phosphate
     - compartment: C_p
-    - charge: 0
+    - charge: -2
     - formula: C31H59O8P
     - notes: !!omap
       - CHARGE: '-2.0'
@@ -23921,7 +23921,7 @@
     - id: pa141_c
     - name: 1,2-ditetradec-7-enoyl-sn-glycerol 3-phosphate
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C31H55O8P
     - notes: !!omap
       - CHARGE: '-2.0'
@@ -23934,7 +23934,7 @@
     - id: pa141_p
     - name: 1,2-ditetradec-7-enoyl-sn-glycerol 3-phosphate
     - compartment: C_p
-    - charge: 0
+    - charge: -2
     - formula: C31H55O8P
     - notes: !!omap
       - CHARGE: '-2.0'
@@ -24021,7 +24021,7 @@
     - id: pa180_c
     - name: 1,2-dioctadecanoyl-sn-glycerol 3-phosphate
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C39H75O8P
     - notes: !!omap
       - CHARGE: '-2.0'
@@ -24042,7 +24042,7 @@
     - id: pa181_c
     - name: 1,2-dioctadec-11-enoyl-sn-glycerol 3-phosphate
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C39H71O8P
     - notes: !!omap
       - CHARGE: '-2.0'
@@ -24055,7 +24055,7 @@
     - id: pa181_p
     - name: 1,2-dioctadec-11-enoyl-sn-glycerol 3-phosphate
     - compartment: C_p
-    - charge: 0
+    - charge: -2
     - formula: C39H71O8P
     - notes: !!omap
       - CHARGE: '-2.0'
@@ -25523,7 +25523,7 @@
     - id: pphn_c
     - name: Prephenate
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C10H8O6
     - notes: !!omap
       - CHARGE: '-2.0'
@@ -25648,7 +25648,7 @@
     - id: pppi_c
     - name: Inorganic triphosphate
     - compartment: C_c
-    - charge: 0
+    - charge: -4
     - formula: HO10P3
     - notes: !!omap
       - CHARGE: '-4.0'
@@ -25766,7 +25766,7 @@
     - id: prbatp_c
     - name: 1-(5-Phosphoribosyl)-ATP
     - compartment: C_c
-    - charge: 0
+    - charge: -6
     - formula: C15H19N5O20P4
     - notes: !!omap
       - CHARGE: '-6.0'
@@ -26021,7 +26021,7 @@
     - id: prohisglu_c
     - name: Proline-histidine-glutamine tripeptide
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C16H24N5O7
     - notes: !!omap
       - FORMULA: C16H24N5O7
@@ -26031,7 +26031,7 @@
     - id: prohisglu_e
     - name: Proline-histidine-glutamine tripeptide
     - compartment: C_e
-    - charge: 0
+    - charge: -1
     - formula: C16H24N5O7
     - notes: !!omap
       - FORMULA: C16H24N5O7
@@ -27560,7 +27560,7 @@
     - id: serglugly_c
     - name: Serine-glutamine-glycine tripeptide
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C10H18N3O8
     - notes: !!omap
       - FORMULA: C10H18N3O8
@@ -27570,7 +27570,7 @@
     - id: serglugly_e
     - name: Serine-glutamine-glycine tripeptide
     - compartment: C_e
-    - charge: 0
+    - charge: -1
     - formula: C10H18N3O8
     - notes: !!omap
       - FORMULA: C10H18N3O8
@@ -28135,7 +28135,7 @@
     - id: strcoa_c
     - name: Stearyl CoA  n C180CoA  C39H66N7O17P3S
     - compartment: C_c
-    - charge: 0
+    - charge: -4
     - formula: C39H66N7O17P3S
     - notes: !!omap
       - FORMULA: C39H66N7O17P3S
@@ -29577,7 +29577,7 @@
     - id: tsul_c
     - name: Thiosulfate
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: O3S2
     - notes: !!omap
       - CHARGE: '-2.0'
@@ -29611,7 +29611,7 @@
     - id: tsul_e
     - name: Thiosulfate
     - compartment: C_e
-    - charge: 0
+    - charge: -2
     - formula: O3S2
     - notes: !!omap
       - CHARGE: '-2.0'
@@ -29645,7 +29645,7 @@
     - id: tsul_p
     - name: Thiosulfate
     - compartment: C_p
-    - charge: 0
+    - charge: -2
     - formula: O3S2
     - notes: !!omap
       - CHARGE: '-2.0'
@@ -41473,6 +41473,7 @@
     - metabolites: !!omap
       - db4p_c: 1.0
       - for_c: 1.0
+      - h_c: 1.0
       - ru5p__D_c: -1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
