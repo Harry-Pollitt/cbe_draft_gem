@@ -31,7 +31,7 @@
     - id: 12d3k5m_c
     - name: 1 2 dihydroxy 3 keto 5 methylthiopentene C6H8O3S
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C6H8O3S
     - notes: !!omap
       - CHARGE: '-2.0'
@@ -615,7 +615,7 @@
     - id: 23ddhb_c
     - name: 2,3-Dihydro-2,3-dihydroxybenzoate
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C7H7O4
     - notes: !!omap
       - CHARGE: '-1.0'
@@ -690,7 +690,7 @@
     - name: 2-3-dihydroxybenzoylserine dimer
     - compartment: C_c
     - charge: 0
-    - formula: C20H19N2O11
+    - formula: C20H20N2O11
     - notes: !!omap
       - FORMULA: C20H19N2O11
     - annotation: !!omap
@@ -700,7 +700,7 @@
     - id: 23dhbzs3_c
     - name: 2-3-dihydroxybenzoylserine trimer
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C30H28N3O16
     - notes: !!omap
       - FORMULA: C30H28N3O16
@@ -711,7 +711,7 @@
     - id: 23dhbzs3_e
     - name: 2-3-dihydroxybenzoylserine trimer
     - compartment: C_e
-    - charge: 0
+    - charge: -1
     - formula: C30H28N3O16
     - notes: !!omap
       - FORMULA: C30H28N3O16
@@ -722,7 +722,7 @@
     - id: 23dhbzs3_p
     - name: 2-3-dihydroxybenzoylserine trimer
     - compartment: C_p
-    - charge: 0
+    - charge: -1
     - formula: C30H28N3O16
     - notes: !!omap
       - FORMULA: C30H28N3O16
@@ -733,7 +733,7 @@
     - id: 23dhbzs_c
     - name: 2,3-dihydroxybenzoylserine
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C10H10NO6
     - notes: !!omap
       - CHARGE: '-1.0'
@@ -1572,7 +1572,7 @@
     - id: 2dr1p_c
     - name: 2-Deoxy-D-ribose 1-phosphate
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C5H9O7P
     - notes: !!omap
       - CHARGE: '-2.0'
@@ -1631,7 +1631,7 @@
     - id: 2h3k5m_c
     - name: 2 hydroxy 3 keto 5 methylthiopentenyl 1 phosphate C6H8O6PS
     - compartment: C_c
-    - charge: 0
+    - charge: -3
     - formula: C6H8O6PS
     - notes: !!omap
       - CHARGE: '-2.0'
@@ -2002,7 +2002,7 @@
     - id: 2me4p_c
     - name: 2-C-methyl-D-erythritol 4-phosphate
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C5H11O7P
     - notes: !!omap
       - CHARGE: '-2.0'
@@ -2097,7 +2097,7 @@
     - id: 2o3mpt_c
     - name: ' R  2 Oxo 3 methylpentanoate C6H9O3'
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C6H9O3
     - notes: !!omap
       - CHARGE: '-1.0'
@@ -2623,7 +2623,7 @@
     - id: 3hbycoa_c
     - name: ' S  3 Hydroxybutyryl CoA C25H38N7O18P3S'
     - compartment: C_c
-    - charge: 0
+    - charge: -4
     - formula: C25H38N7O18P3S
     - notes: !!omap
       - FORMULA: C25H38N7O18P3S
@@ -2805,7 +2805,7 @@
     - id: 3hocoa_c
     - name: (S)-3-Hydroxyoctanoyl-CoA
     - compartment: C_c
-    - charge: 0
+    - charge: -4
     - formula: C29H46N7O18P3S
     - notes: !!omap
       - CHARGE: '-4.0'
@@ -2833,7 +2833,7 @@
     - id: 3hodcoa_c
     - name: (S)-3-Hydroxyoctadecanoyl-CoA
     - compartment: C_c
-    - charge: 0
+    - charge: -4
     - formula: C39H66N7O18P3S
     - notes: !!omap
       - CHARGE: '-4.0'
@@ -8414,7 +8414,7 @@
     - id: buts_c
     - name: Butanesulfonate C4H9O3S
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C4H9O3S
     - notes: !!omap
       - FORMULA: C4H9O3S
@@ -8426,7 +8426,7 @@
     - id: buts_e
     - name: Butanesulfonate C4H9O3S
     - compartment: C_e
-    - charge: 0
+    - charge: -1
     - formula: C4H9O3S
     - notes: !!omap
       - FORMULA: C4H9O3S
@@ -11295,7 +11295,7 @@
     - id: dhpmp_c
     - name: Dihydroneopterin monophosphate
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C9H12N5O7P
     - notes: !!omap
       - CHARGE: '-2.0'
@@ -11536,7 +11536,7 @@
     - id: dmlgnc_c
     - name: Dimethyl lignoceric acid
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C26H51O2
     - notes: !!omap
       - FORMULA: C26H51O2
@@ -12267,7 +12267,7 @@
     - id: fa11_c
     - name: Fatty acid (Iso-C17:0)
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C17H33O2
     - notes: !!omap
       - FORMULA: C17H33O2
@@ -12289,7 +12289,7 @@
     - id: fa12_c
     - name: Fatty acid (Anteiso-C17:0)
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C17H33O2
     - notes: !!omap
       - FORMULA: C17H33O2
@@ -12311,7 +12311,7 @@
     - id: fa1_c
     - name: Fatty acid (Iso-C14:0)
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C14H27O2
     - notes: !!omap
       - FORMULA: C14H27O2
@@ -12333,7 +12333,7 @@
     - id: fa3_c
     - name: Fatty acid (Iso-C15:0)
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C15H29O2
     - notes: !!omap
       - FORMULA: C15H29O2
@@ -12377,7 +12377,7 @@
     - id: fa6_c
     - name: Fatty acid (iso-C16:0)
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C16H31O2
     - notes: !!omap
       - FORMULA: C16H31O2
@@ -12540,7 +12540,7 @@
     - id: fdp_c
     - name: D-Fructose 1,6-bisphosphate
     - compartment: C_c
-    - charge: 0
+    - charge: -4
     - formula: C6H10O12P2
     - notes: !!omap
       - CHARGE: '-4.0'
@@ -12790,7 +12790,7 @@
     - id: fe3pyovd_kt_e
     - name: Ferrypyoverdine  P putida KT2440 specific
     - compartment: C_e
-    - charge: 0
+    - charge: 2
     - formula: C27FeH48N10O15
     - notes: !!omap
       - FORMULA: C27FeH48N10O15
@@ -12894,7 +12894,7 @@
     - id: fmnh2_c
     - name: Reduced FMN
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C17H23N4O9P
     - notes: !!omap
       - CHARGE: '0.0'
@@ -17710,7 +17710,7 @@
     - id: hibcoa_c
     - name: ' S  3 Hydroxyisobutyryl CoA C25H38N7O18P3S'
     - compartment: C_c
-    - charge: 0
+    - charge: -3
     - formula: C25H39N7O18P3S
     - notes: !!omap
       - FORMULA: C25H39N7O18P3S
@@ -20365,7 +20365,7 @@
     - id: mbhn_c
     - name: Methyl behenic acid
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C23H45O2
     - notes: !!omap
       - FORMULA: C23H45O2
@@ -26391,7 +26391,7 @@
     - id: pyovd_kt_e
     - name: Pyoverdine  P putida specific
     - compartment: C_e
-    - charge: 0
+    - charge: -1
     - formula: C27H48N10O15
     - notes: !!omap
       - FORMULA: C27H48N10O15
@@ -26401,7 +26401,7 @@
     - id: pyovd_kt_p
     - name: Pyoverdine  P putida specific
     - compartment: C_p
-    - charge: 0
+    - charge: -1
     - formula: C27H48N10O15
     - notes: !!omap
       - FORMULA: C27H48N10O15
@@ -28560,7 +28560,7 @@
     - id: tamocta_c
     - name: Tetra-methyl octacosanoate
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C32H63O2
     - notes: !!omap
       - FORMULA: C32H63O2
@@ -29169,7 +29169,7 @@
     - id: tmhexc_c
     - name: Tri-methyl hexacosanoate
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C29H57O2
     - notes: !!omap
       - FORMULA: C29H57O2
@@ -41975,7 +41975,7 @@
       - 23dhbzs2_c: -1.0
       - 23dhbzs_c: 2.0
       - h2o_c: -1.0
-      - h_c: 1.0
+      - h_c: 2.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: LKBDOH_02562
@@ -41990,7 +41990,6 @@
       - 23dhbzs3_c: -1.0
       - 23dhbzs_c: 1.0
       - h2o_c: -1.0
-      - h_c: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: LKBDOH_02562
