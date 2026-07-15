@@ -43,7 +43,7 @@
     - id: 12dag3p_BS_c
     - name: 1 2 diacyl sn glycerol 3 phosphate C3436H6572O800P100
     - compartment: C_c
-    - charge: -2
+    - charge: -200
     - formula: C3436H6572O800P100
     - notes: !!omap
       - FORMULA: C3436H6572O800P100
@@ -336,7 +336,7 @@
     - id: 1ag3p_BS_c
     - name: 1 Acyl sn glycerol 3 phsophate C1868H3636O700P100
     - compartment: C_c
-    - charge: -2
+    - charge: -200
     - formula: C1868H3636O700P100
     - notes: !!omap
       - FORMULA: C1868H3636O700P100
@@ -1703,7 +1703,7 @@
     - id: 2hdec9eg3p_c
     - name: 2-hexadec-9-enoyl-sn-glycerol 3-phosphate
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C19H36O7P
     - notes: !!omap
       - FORMULA: C19H36O7P
@@ -1715,7 +1715,7 @@
     - id: 2hdec9eg3p_p
     - name: 2-hexadec-9-enoyl-sn-glycerol 3-phosphate
     - compartment: C_p
-    - charge: 0
+    - charge: -1
     - formula: C19H36O7P
     - notes: !!omap
       - FORMULA: C19H36O7P
@@ -1849,7 +1849,7 @@
     - id: 2maacoa_c
     - name: 2-Methyl-3-acetoacetyl-CoA
     - compartment: C_c
-    - charge: 0
+    - charge: -4
     - formula: C26H38N7O18P3S
     - notes: !!omap
       - CHARGE: '-4.0'
@@ -4842,7 +4842,7 @@
     - id: Pald_c
     - name: Phosphonoacetaldehyde
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C2H3O4P
     - notes: !!omap
       - CHARGE: '-2.0'
@@ -5541,7 +5541,7 @@
     - id: acgam1p_c
     - name: N-Acetyl-D-glucosamine 1-phosphate
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C8H14NO9P
     - notes: !!omap
       - CHARGE: '-2.0'
@@ -7145,7 +7145,7 @@
     - id: alpro_c
     - name: S Aminomethyldihydrolipoylprotein CH6NS2X
     - compartment: C_c
-    - charge: 0
+    - charge: 1
     - formula: C9H20N2OS2
     - notes: !!omap
       - CHARGE: '0'
@@ -11008,7 +11008,7 @@
     - id: dgal6p_c
     - name: D-Galactose 6-phosphate
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C6H11O9P
     - notes: !!omap
       - FORMULA: C6H11O9P
@@ -12399,8 +12399,8 @@
     - id: fad_c
     - name: Flavin adenine dinucleotide oxidized
     - compartment: C_c
-    - charge: 0
-    - formula: C27H33N9O15P2
+    - charge: -2
+    - formula: C27H31N9O15P2
     - notes: !!omap
       - CHARGE: '0'
       - FORMULA: C27H33N9O15P2
@@ -12428,8 +12428,8 @@
     - id: fadh2_c
     - name: Flavin adenine dinucleotide reduced
     - compartment: C_c
-    - charge: 0
-    - formula: C27H35N9O15P2
+    - charge: -2
+    - formula: C27H33N9O15P2
     - notes: !!omap
       - CHARGE: '0.0'
       - FORMULA: C27H35N9O15P2
@@ -12780,7 +12780,7 @@
     - id: fe3mcbtt_e
     - name: Iron III  chelated mycobactin T
     - compartment: C_e
-    - charge: 0
+    - charge: 5
     - formula: C47FeH77N5O10
     - notes: !!omap
       - FORMULA: C47FeH77N5O10
@@ -12800,7 +12800,7 @@
     - id: fgam_c
     - name: N2-Formyl-N1-(5-phospho-D-ribosyl)glycinamide
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C8H13N2O9P
     - notes: !!omap
       - CHARGE: '-2.0'
@@ -12858,7 +12858,7 @@
     - name: Flavin mononucleotide reduced C17H21N4O9P
     - compartment: C_c
     - charge: -2
-    - formula: C17H23N4O9P
+    - formula: C17H21N4O9P
     - notes: !!omap
       - FORMULA: C17H23N4O9P
     - annotation: !!omap
@@ -12870,7 +12870,7 @@
     - name: FMN C17H19N4O9P
     - compartment: C_c
     - charge: -2
-    - formula: C17H21N4O9P
+    - formula: C17H19N4O9P
     - notes: !!omap
       - CHARGE: '0'
       - FORMULA: C17H21N4O9P
@@ -12895,7 +12895,7 @@
     - name: Reduced FMN
     - compartment: C_c
     - charge: -2
-    - formula: C17H23N4O9P
+    - formula: C17H21N4O9P
     - notes: !!omap
       - CHARGE: '0.0'
       - FORMULA: C17H23N4O9P
@@ -13422,7 +13422,7 @@
     - id: frulysp_c
     - name: Fructoselysine Phosphate
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C12H24N2O10P
     - notes: !!omap
       - CHARGE: '-1.0'
@@ -13435,7 +13435,7 @@
     - id: fruur_c
     - name: D-Fructuronate
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C6H9O7
     - notes: !!omap
       - CHARGE: '-1.0'
@@ -13684,7 +13684,7 @@
     - id: g3pg_c
     - name: Glycerophosphoglycerol
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C6H14O8P
     - notes: !!omap
       - CHARGE: '-1.0'
@@ -13703,7 +13703,7 @@
     - id: g3pg_e
     - name: Glycerophosphoglycerol
     - compartment: C_e
-    - charge: 0
+    - charge: -1
     - formula: C6H14O8P
     - notes: !!omap
       - CHARGE: '-1.0'
@@ -13722,7 +13722,7 @@
     - id: g3pg_p
     - name: Glycerophosphoglycerol
     - compartment: C_p
-    - charge: 0
+    - charge: -1
     - formula: C6H14O8P
     - notes: !!omap
       - CHARGE: '-1.0'
@@ -14403,7 +14403,7 @@
     - id: gcvHalip_c
     - name: S-Aminomethyldihydrolipoylprotein (gcvH)
     - compartment: C_c
-    - charge: 0
+    - charge: -4
     - formula: C17H29NO9P2S4
     - notes: !!omap
       - FORMULA: C17H29NO9P2S4
@@ -14413,7 +14413,7 @@
     - id: gcvHdhlip_c
     - name: Dihydrolipolprotein (gcvH)
     - compartment: C_c
-    - charge: 0
+    - charge: -5
     - formula: C16H25O9P2S4
     - notes: !!omap
       - FORMULA: C16H25O9P2S4
@@ -14423,7 +14423,7 @@
     - id: gcvhlipl_c
     - name: GcvH N6-(lipoyl)lysine
     - compartment: C_c
-    - charge: 0
+    - charge: -5
     - formula: C16H23O9P2S4
     - notes: !!omap
       - FORMULA: C16H23O9P2S4
@@ -14465,7 +14465,7 @@
     - id: gdptp_c
     - name: Guanosine 3'-diphosphate 5'-triphosphate
     - compartment: C_c
-    - charge: 0
+    - charge: -7
     - formula: C10H11N5O20P5
     - notes: !!omap
       - CHARGE: '-7.0'
@@ -15403,7 +15403,7 @@
     - id: glutrna_c
     - name: L-Glutamyl-tRNA(Glu)
     - compartment: C_c
-    - charge: 0
+    - charge: -3
     - formula: C33H41N12O24P3
     - notes: !!omap
       - CHARGE: '0'
@@ -15548,7 +15548,7 @@
     - name: Gly-Cys
     - compartment: C_c
     - charge: 0
-    - formula: C5H11N2O3S
+    - formula: C5H10N2O3S
     - notes: !!omap
       - CHARGE: '1.0'
       - FORMULA: C5H11N2O3S
@@ -15648,7 +15648,7 @@
     - name: Gly-Leu
     - compartment: C_c
     - charge: 0
-    - formula: C8H17N2O3
+    - formula: C8H16N2O3
     - notes: !!omap
       - CHARGE: '1.0'
       - FORMULA: C8H17N2O3
@@ -15724,7 +15724,7 @@
     - name: Gly-Phe
     - compartment: C_c
     - charge: 0
-    - formula: C11H15N2O3
+    - formula: C11H14N2O3
     - notes: !!omap
       - CHARGE: '1.0'
       - FORMULA: C11H15N2O3
@@ -15770,7 +15770,7 @@
     - name: Gly-Tyr
     - compartment: C_c
     - charge: 0
-    - formula: C11H15N2O4
+    - formula: C11H14N2O4
     - notes: !!omap
       - CHARGE: '1.0'
       - FORMULA: C11H15N2O4
@@ -17561,7 +17561,7 @@
     - id: hemeO_c
     - name: Heme O C49H56FeN4O5
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C49FeH56N4O5
     - notes: !!omap
       - CHARGE: '-2.0'
@@ -19006,7 +19006,7 @@
     - id: lac6p_c
     - name: Lactose-6-phosphate
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C12H21O14P
     - notes: !!omap
       - FORMULA: C12H21O14P
@@ -19461,7 +19461,7 @@
     - id: lipo1_24_BS_c
     - name: Lipoteichoic acid  n24   linked  glucose substituted C26236H47072O25500P2400
     - compartment: C_c
-    - charge: 0
+    - charge: -240
     - formula: C26236H47072O25500P2400
     - notes: !!omap
       - FORMULA: C26236H47072O25500P2400
@@ -19505,7 +19505,7 @@
     - id: lipoamp_c
     - name: Lipoyl-AMP
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C18H25N5O8PS2
     - notes: !!omap
       - FORMULA: C18H25N5O8PS2
@@ -19602,7 +19602,7 @@
     - id: lipopb_c
     - name: Lipoate (protein bound)
     - compartment: C_c
-    - charge: 0
+    - charge: 1
     - formula: C8H13OS2
     - notes: !!omap
       - FORMULA: C8H13OS2
@@ -20251,7 +20251,7 @@
     - id: man6p_c
     - name: D-Mannose 6-phosphate
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C6H11O9P
     - notes: !!omap
       - CHARGE: '-2.0'
@@ -20377,7 +20377,7 @@
     - id: mcbtt_e
     - name: Mycobactin T
     - compartment: C_e
-    - charge: 0
+    - charge: 2
     - formula: C47H77N5O10
     - notes: !!omap
       - CHARGE: '0'
@@ -21206,7 +21206,7 @@
     - id: mmet_c
     - name: S-Methyl-L-methionine
     - compartment: C_c
-    - charge: 0
+    - charge: 1
     - formula: C6H14NO2S
     - notes: !!omap
       - CHARGE: '0'
@@ -21230,7 +21230,7 @@
     - id: mmet_e
     - name: S-Methyl-L-methionine
     - compartment: C_e
-    - charge: 0
+    - charge: 1
     - formula: C6H14NO2S
     - notes: !!omap
       - CHARGE: '0'
@@ -21254,7 +21254,7 @@
     - id: mmet_p
     - name: S-Methyl-L-methionine
     - compartment: C_p
-    - charge: 0
+    - charge: 1
     - formula: C6H14NO2S
     - notes: !!omap
       - CHARGE: '0'
@@ -21748,7 +21748,7 @@
     - name: Two disacharide linked murein units, tripeptide crosslinked tripeptide
         (A2pm->A2pm) (middle of chain)
     - compartment: C_p
-    - charge: 0
+    - charge: -4
     - formula: C68H102N12O37
     - notes: !!omap
       - CHARGE: '-4.0'
@@ -21931,7 +21931,7 @@
     - name: Two disacharide linked murein units, pentapeptide crosslinked tetrapeptide
         (A2pm->D-ala) (middle of chain)
     - compartment: C_p
-    - charge: 0
+    - charge: -4
     - formula: C77H117N15O40
     - notes: !!omap
       - CHARGE: '-4.0'
@@ -21948,7 +21948,7 @@
         (A2pm->D-ala) tetrapeptide corsslinked tetrapeptide (A2pm->D-ala)) (middle
         of chain)
     - compartment: C_p
-    - charge: 0
+    - charge: -6
     - formula: C114H172N22O59
     - notes: !!omap
       - CHARGE: '-6.0'
@@ -22194,7 +22194,7 @@
     - id: nadhx__R_c
     - name: (R)-NADHX
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C21H29N7O15P2
     - notes: !!omap
       - FORMULA: C21H29N7O15P2
@@ -22206,7 +22206,7 @@
         5'-(3-{5-[(2S)-5-carbamoyl-2-hydroxy-3,4-dihydropyridin-1-yl]-5-deoxy-?-D-ribofuranosyl}
         dihydrogen diphosphate)
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C21H29N7O15P2
     - notes: !!omap
       - FORMULA: C21H29N7O15P2
@@ -22292,7 +22292,7 @@
     - id: nadphx__R_c
     - name: (R)-NADPHX
     - compartment: C_c
-    - charge: 0
+    - charge: -4
     - formula: C21H28N7O18P3
     - notes: !!omap
       - FORMULA: C21H28N7O18P3
@@ -22302,7 +22302,7 @@
     - id: nadphx__S_c
     - name: (S)-NADPHX
     - compartment: C_c
-    - charge: 0
+    - charge: -4
     - formula: C21H28N7O18P3
     - notes: !!omap
       - FORMULA: C21H28N7O18P3
@@ -22908,7 +22908,7 @@
     - id: nwharg_c
     - name: N-(omega)-Hydroxyarginine
     - compartment: C_c
-    - charge: 0
+    - charge: 1
     - formula: C6H14N4O3
     - notes: !!omap
       - CHARGE: '0'
@@ -26844,7 +26844,7 @@
     - name: Riboflavin C17H20N4O6
     - compartment: C_c
     - charge: 0
-    - formula: C17H22N4O6
+    - formula: C17H20N4O6
     - notes: !!omap
       - CHARGE: '2.0'
       - FORMULA: C17H22N4O6
@@ -26873,7 +26873,7 @@
     - name: Riboflavin C17H20N4O6
     - compartment: C_e
     - charge: 0
-    - formula: C17H22N4O6
+    - formula: C17H20N4O6
     - notes: !!omap
       - CHARGE: '2.0'
       - FORMULA: C17H22N4O6
@@ -27250,7 +27250,7 @@
     - id: sbzcoa_c
     - name: O-Succinylbenzoyl-CoA
     - compartment: C_c
-    - charge: 0
+    - charge: -5
     - formula: C32H39N7O20P3S
     - notes: !!omap
       - CHARGE: '-5.0'
@@ -28159,7 +28159,7 @@
     - id: suc6p_c
     - name: Sucrose 6-phosphate
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C12H21O14P
     - notes: !!omap
       - CHARGE: '-2.0'
@@ -28487,7 +28487,7 @@
     - id: tag6p__D_c
     - name: D-Tagatose 6-phosphate
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C6H11O9P
     - notes: !!omap
       - CHARGE: '-3.0'
@@ -28535,7 +28535,7 @@
     - id: tagur_c
     - name: D-Tagaturonate
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C6H9O7
     - notes: !!omap
       - CHARGE: '-1.0'
@@ -29892,7 +29892,7 @@
     - name: 
         Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-ala-D-glu-meso-2,6-diaminopimeloyl-D-ala-D-ala
     - compartment: C_c
-    - charge: 0
+    - charge: -4
     - formula: C95H153N8O28P2
     - notes: !!omap
       - CHARGE: '-3.0'
@@ -30100,7 +30100,7 @@
     - id: udcpdp_c
     - name: Undecaprenyl diphosphate
     - compartment: C_c
-    - charge: 0
+    - charge: -3
     - formula: C55H90O7P2
     - notes: !!omap
       - CHARGE: '-2.0'
@@ -50953,7 +50953,6 @@
       - gly_c: 1.0
       - gly_cys_c: -1.0
       - h2o_c: -1.0
-      - h_c: 1.0
     - lower_bound: -1000.0
     - upper_bound: 1000.0
     - gene_reaction_rule: LKBDOH_00522
@@ -50968,6 +50967,7 @@
       - gly_cys_c: 1.0
       - gly_cys_e: -1.0
       - h2o_c: -1.0
+      - h_c: 1.0
       - pi_c: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
@@ -51305,7 +51305,6 @@
       - gly_c: 1.0
       - gly_leu_c: -1.0
       - h2o_c: -1.0
-      - h_c: 1.0
       - leu__L_c: 1.0
     - lower_bound: -1000.0
     - upper_bound: 1000.0
@@ -51321,6 +51320,7 @@
       - gly_leu_c: 1.0
       - gly_leu_e: -1.0
       - h2o_c: -1.0
+      - h_c: 1.0
       - pi_c: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
@@ -51416,7 +51416,6 @@
       - gly_c: 1.0
       - gly_phe_c: -1.0
       - h2o_c: -1.0
-      - h_c: 1.0
       - phe__L_c: 1.0
     - lower_bound: -1000.0
     - upper_bound: 1000.0
@@ -51432,6 +51431,7 @@
       - gly_phe_c: 1.0
       - gly_phe_e: -1.0
       - h2o_c: -1.0
+      - h_c: 1.0
       - pi_c: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
@@ -51445,7 +51445,6 @@
       - gly_c: 1.0
       - gly_tyr_c: -1.0
       - h2o_c: -1.0
-      - h_c: 1.0
       - tyr__L_c: 1.0
     - lower_bound: -1000.0
     - upper_bound: 1000.0
@@ -51461,6 +51460,7 @@
       - gly_tyr_c: 1.0
       - gly_tyr_e: -1.0
       - h2o_c: -1.0
+      - h_c: 1.0
       - pi_c: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
