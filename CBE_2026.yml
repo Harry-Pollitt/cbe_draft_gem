@@ -4599,7 +4599,7 @@
     - name: Acyl carrier protein
     - compartment: C_c
     - charge: -1
-    - formula: C384H603N96O142PS3
+    - formula: C11H21N2O7PRS
     - notes: !!omap
       - CHARGE: '1'
       - FORMULA: C384H603N96O142PS3
@@ -4920,7 +4920,7 @@
     - id: R_3hdcoa_c
     - name: (R)-Hydroxydecanoyl-CoA
     - compartment: C_c
-    - charge: 0
+    - charge: -4
     - formula: C31H50N7O18P3S
     - notes: !!omap
       - FORMULA: C31H50N7O18P3S
@@ -4972,7 +4972,7 @@
     - id: R_3hhdcoa_c
     - name: ' 3 Hydroxyhexadecanoyl CoA'
     - compartment: C_c
-    - charge: 0
+    - charge: -4
     - formula: C37H62N7O18P3S
     - notes: !!omap
       - FORMULA: C37H62N7O18P3S
@@ -5020,7 +5020,7 @@
     - id: R_3hocoa_c
     - name: (R)-Hydroxyoctanoyl-CoA
     - compartment: C_c
-    - charge: 0
+    - charge: -4
     - formula: C29H46N7O18P3S
     - notes: !!omap
       - FORMULA: C29H46N7O18P3S
@@ -7422,7 +7422,7 @@
     - name: Apoprotein [acyl carrier protein]
     - compartment: C_c
     - charge: 0
-    - formula: C373H583N94O136S2
+    - formula: RHO
     - notes: !!omap
       - CHARGE: '1'
       - FORMULA: C373H583N94O136S2
@@ -7561,7 +7561,7 @@
     - name: Eicosanoyl-ACP (n-C20:0)
     - compartment: C_c
     - charge: -1
-    - formula: C404H641N96O143PS3
+    - formula: C31H59N2O8PRS
     - notes: !!omap
       - FORMULA: C404H641N96O143PS3
     - annotation: !!omap
@@ -10866,7 +10866,7 @@
     - name: Dodecanoyl-ACP (n-C12:0ACP)
     - compartment: C_c
     - charge: -1
-    - formula: C396H625N96O143PS3
+    - formula: C23H43N2O8PRS
     - notes: !!omap
       - CHARGE: '0'
       - FORMULA: C396H625N96O143PS3
@@ -11363,7 +11363,7 @@
     - id: dhptdd_c
     - name: 3-hydroxy-5-phosphonooxypentane-2,4-dione
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C5H7O7P
     - notes: !!omap
       - FORMULA: C5H7O7P
@@ -11549,7 +11549,7 @@
     - name: 6,7-Dimethyl-8-(1-D-ribityl)lumazine
     - compartment: C_c
     - charge: 0
-    - formula: C13H19N4O6
+    - formula: C13H18N4O6
     - notes: !!omap
       - CHARGE: '1.0'
       - FORMULA: C13H19N4O6
@@ -12520,7 +12520,7 @@
     - id: fbac_kt_c
     - name: Ferribactin  Pputida KT2440 specific
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C27H48N10O15
     - notes: !!omap
       - FORMULA: C27H48N10O15
@@ -12530,7 +12530,7 @@
     - id: fbac_kt_p
     - name: Ferribactin  Pputida KT2440 specific
     - compartment: C_p
-    - charge: 0
+    - charge: -1
     - formula: C27H48N10O15
     - notes: !!omap
       - FORMULA: C27H48N10O15
@@ -13117,7 +13117,7 @@
     - id: fpram_c
     - name: 2-(Formamido)-N1-(5-phospho-D-ribosyl)acetamidine
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C8H14N3O8P
     - notes: !!omap
       - CHARGE: '-2.0'
@@ -16411,7 +16411,7 @@
     - id: gtca1_45_BS_c
     - name: Glycerol teichoic acid  n45   unlinked  unsubstituted C151H297N2O238P46
     - compartment: C_c
-    - charge: 0
+    - charge: -45
     - formula: C151H297N2O238P46
     - notes: !!omap
       - FORMULA: C151H297N2O238P46
@@ -16422,7 +16422,7 @@
     - id: gtca2_45_BS_c
     - name: Glycerol teichoic acid  n45   unlinked  D ala substituted C286H612N47O328P46
     - compartment: C_c
-    - charge: 0
+    - charge: -45
     - formula: C286H612N47O328P46
     - notes: !!omap
       - FORMULA: C286H612N47O328P46
@@ -16433,7 +16433,7 @@
     - id: gtca3_45_BS_c
     - name: Glycerol teichoic acid  n45   unlinked  glucose substituted C421H749N2O464P46
     - compartment: C_c
-    - charge: 0
+    - charge: -45
     - formula: C421H749N2O464P46
     - notes: !!omap
       - FORMULA: C421H749N2O464P46
@@ -17550,7 +17550,7 @@
     - name: Cis-hexadec-9-enoyl-[acyl-carrier protein] (n-C16:1)
     - compartment: C_c
     - charge: -1
-    - formula: C400H631N96O143PS3
+    - formula: C27H49N2O8PRS
     - notes: !!omap
       - CHARGE: '-1'
       - FORMULA: C400H631N96O143PS3
@@ -18823,7 +18823,7 @@
     - id: istfrnB_e
     - name: Iron bound extracellular staphyloferrin B
     - compartment: C_e
-    - charge: 0
+    - charge: -1
     - formula: C19FeH22N2O18
     - notes: !!omap
       - FORMULA: C19FeH22N2O18
@@ -20221,7 +20221,7 @@
     - id: man1p_c
     - name: D-Mannose 1-phosphate
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C6H11O9P
     - notes: !!omap
       - CHARGE: '-2.0'
@@ -21964,7 +21964,7 @@
     - name: Myristoyl-ACP (n-C14:0ACP)
     - compartment: C_c
     - charge: -1
-    - formula: C398H629N96O143PS3
+    - formula: C25H47N2O8PRS
     - notes: !!omap
       - CHARGE: '0'
       - FORMULA: C398H629N96O143PS3
@@ -23138,7 +23138,7 @@
     - name: Octanoyl-ACP (n-C8:0ACP)
     - compartment: C_c
     - charge: -1
-    - formula: C392H617N96O143PS3
+    - formula: C19H35N2O8PRS
     - notes: !!omap
       - CHARGE: '-1'
       - FORMULA: C392H617N96O143PS3
@@ -23180,7 +23180,7 @@
     - name: Octadecanoyl-ACP (n-C18:0ACP)
     - compartment: C_c
     - charge: -1
-    - formula: C402H637N96O143PS3
+    - formula: C29H55N2O8PRS
     - notes: !!omap
       - CHARGE: '-1'
       - FORMULA: C402H637N96O143PS3
@@ -23391,7 +23391,7 @@
     - name: Cis-octadec-11-enoyl-[acyl-carrier protein] (n-C18:1)
     - compartment: C_c
     - charge: -1
-    - formula: C402H635O143N96P1S3
+    - formula: C29H53N2O8PRS
     - notes: !!omap
       - CHARGE: '0'
       - FORMULA: C402H635O143N96P1S3
@@ -24093,7 +24093,7 @@
     - name: Palmitoyl-ACP (n-C16:0ACP)
     - compartment: C_c
     - charge: -1
-    - formula: C400H633N96O143PS3
+    - formula: C27H51N2O8PRS
     - notes: !!omap
       - CHARGE: '0'
       - FORMULA: C400H633N96O143PS3
@@ -24558,7 +24558,7 @@
     - id: peptido_BS_c
     - name: Peptidoglycan subunit of Bacillus subtilis C40H62N8O21
     - compartment: C_c
-    - charge: 0
+    - charge: -2
     - formula: C40H62N8O21
     - notes: !!omap
       - CHARGE: '3.0'
@@ -24571,7 +24571,7 @@
     - id: pg120_c
     - name: Phosphatidylglycerol (didodecanoyl, n-C12:0)
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C30H58O10P
     - notes: !!omap
       - CHARGE: '-1.0'
@@ -24583,7 +24583,7 @@
     - id: pg120_p
     - name: Phosphatidylglycerol (didodecanoyl, n-C12:0)
     - compartment: C_p
-    - charge: 0
+    - charge: -1
     - formula: C30H58O10P
     - notes: !!omap
       - CHARGE: '-1.0'
@@ -24651,7 +24651,7 @@
     - id: pg160_c
     - name: Phosphatidylglycerol (dihexadecanoyl, n-C16:0)
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C38H74O10P
     - notes: !!omap
       - CHARGE: '-1.0'
@@ -24674,7 +24674,7 @@
     - id: pg160_p
     - name: Phosphatidylglycerol (dihexadecanoyl, n-C16:0)
     - compartment: C_p
-    - charge: 0
+    - charge: -1
     - formula: C38H74O10P
     - notes: !!omap
       - CHARGE: '-1.0'
@@ -24735,7 +24735,7 @@
     - id: pgp120_c
     - name: Phosphatidylglycerophosphate (didodecanoyl, n-C12:0)
     - compartment: C_c
-    - charge: 0
+    - charge: -3
     - formula: C30H57O13P2
     - notes: !!omap
       - CHARGE: '-3.0'
@@ -24747,7 +24747,7 @@
     - id: pgp141_c
     - name: Phosphatidylglycerophosphate (ditetradec-7-enoyl, n-C14:1)
     - compartment: C_c
-    - charge: 0
+    - charge: -3
     - formula: C34H61O13P2
     - notes: !!omap
       - CHARGE: '-3.0'
@@ -24759,7 +24759,7 @@
     - id: pgp160_c
     - name: Phosphatidylglycerophosphate (dihexadecanoyl, n-C16:0)
     - compartment: C_c
-    - charge: 0
+    - charge: -3
     - formula: C38H73O13P2
     - notes: !!omap
       - CHARGE: '-3.0'
@@ -25741,7 +25741,7 @@
     - id: prbamp_c
     - name: 1-(5-Phosphoribosyl)-AMP
     - compartment: C_c
-    - charge: 0
+    - charge: -4
     - formula: C15H19N5O14P2
     - notes: !!omap
       - CHARGE: '-4.0'
@@ -25793,8 +25793,8 @@
     - id: prephthACP_c
     - name: Phthiocerol precursor bound ACP
     - compartment: C_c
-    - charge: 0
-    - formula: C416H662N96O146PS3
+    - charge: -1
+    - formula: C43H81N2O11PRS
     - notes: !!omap
       - CHARGE: '-1.0'
       - FORMULA: C416H662N96O146PS3
@@ -25806,7 +25806,7 @@
     - id: prephth_c
     - name: Phthiocerol precursor
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C32H60O5
     - notes: !!omap
       - FORMULA: C32H60O5
@@ -25868,7 +25868,7 @@
     - name: D-Proline
     - compartment: C_c
     - charge: 0
-    - formula: C5H8NO2
+    - formula: C5H9NO2
     - notes: !!omap
       - FORMULA: C5H8NO2
     - annotation: !!omap
@@ -26097,7 +26097,7 @@
     - id: ps160_c
     - name: Phosphatidylserine (dihexadecanoyl, n-C16:0)
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C38H73NO10P
     - notes: !!omap
       - CHARGE: '-1.0'
@@ -26119,7 +26119,7 @@
     - id: ps180_c
     - name: Phosphatidylserine (dioctadecanoyl, n-C18:0)
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C42H81NO10P
     - notes: !!omap
       - CHARGE: '-1.0'
@@ -26303,7 +26303,7 @@
     - id: pvdiq_p
     - name: Pyoverdine precursor I
     - compartment: C_p
-    - charge: 0
+    - charge: -1
     - formula: C27H48N10O15
     - notes: !!omap
       - FORMULA: C27H48N10O15
@@ -27273,7 +27273,7 @@
     - id: scys__L_c
     - name: S-Sulfo-L-cysteine
     - compartment: C_c
-    - charge: 0
+    - charge: -1
     - formula: C3H6NO5S2
     - notes: !!omap
       - CHARGE: '-1.0'
@@ -27580,7 +27580,7 @@
     - id: shcl_c
     - name: Dihydrosirohydrochlorin C42H40N4O16
     - compartment: C_c
-    - charge: 0
+    - charge: -8
     - formula: C42H40N4O16
     - notes: !!omap
       - FORMULA: C42H40N4O16
@@ -28115,7 +28115,7 @@
     - id: stfrnB_c
     - name: Staphyloferrin B
     - compartment: C_c
-    - charge: 0
+    - charge: -3
     - formula: C19H22N2O18
     - notes: !!omap
       - FORMULA: C19H22N2O18
@@ -28125,7 +28125,7 @@
     - id: stfrnB_e
     - name: Staphyloferrin B
     - compartment: C_e
-    - charge: 0
+    - charge: -3
     - formula: C19H22N2O18
     - notes: !!omap
       - FORMULA: C19H22N2O18
@@ -28510,7 +28510,7 @@
     - id: tagdp__D_c
     - name: D-Tagatose 1,6-biphosphate
     - compartment: C_c
-    - charge: 0
+    - charge: -4
     - formula: C6H10O12P2
     - notes: !!omap
       - CHARGE: '-4.0'
@@ -30003,7 +30003,7 @@
     - name: 
         Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine
     - compartment: C_c
-    - charge: 0
+    - charge: -4
     - formula: C87H140N7O23P2
     - notes: !!omap
       - CHARGE: '-3.0'
@@ -30075,7 +30075,7 @@
     - id: uamr_c
     - name: UDP-N-acetylmuramate
     - compartment: C_c
-    - charge: 0
+    - charge: -3
     - formula: C20H28N3O19P2
     - notes: !!omap
       - CHARGE: '-3.0'
@@ -30124,7 +30124,7 @@
     - id: udcpp_c
     - name: Undecaprenyl phosphate
     - compartment: C_c
-    - charge: -1
+    - charge: -2
     - formula: C55H90O4P
     - notes: !!omap
       - CHARGE: '-1'
@@ -65933,7 +65933,7 @@
       - co2_c: 2.0
       - coa_c: 4.0
       - h2o_c: 5.0
-      - h_c: -13.0
+      - h_c: -14.0
       - malcoa_c: -2.0
       - mmcoa__S_c: -2.0
       - nadp_c: 10.0
@@ -66125,7 +66125,6 @@
     - id: PROR
     - name: ''
     - metabolites: !!omap
-      - h_c: 1.0
       - pro__D_c: 1.0
       - pro__L_c: -1.0
     - lower_bound: -1000.0
