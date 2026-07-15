@@ -20930,6 +20930,12 @@
         - cpd15498
         - cpd29319
   - !!omap
+    - id: metsox_S__L_e
+    - name: L-Methionine Sulfoxide
+    - compartment: C_e
+    - charge: 0
+    - formula: C5H11NO3S
+  - !!omap
     - id: mg2_c
     - name: Magnesium
     - compartment: C_c
@@ -22391,7 +22397,7 @@
       - hmdb:
         - HMDB00051
         - HMDB41827
-      - inchikey: QGZKDVFQNNGYKY-UHFFFAOYSA-O
+      - inchikey: QGZKDVFQNNGYKY-UHFFFAOYSA-N
       - kegg.compound:
         - C00014
         - C01342
@@ -33237,11 +33243,11 @@
     - id: ACOAD5_1
     - name: Acyl CoA dehydrogenase  dodecanoyl CoA
     - metabolites: !!omap
+      - dd2coa_c: 1.0
       - ddcoa_c: -1.0
       - h_c: 1.0
       - nad_c: -1.0
       - nadh_c: 1.0
-      - trans_dd2coa_c: 1.0
     - lower_bound: -1000.0
     - upper_bound: 1000.0
     - gene_reaction_rule: LKBDOH_00559
@@ -33371,7 +33377,7 @@
       - ac_c: 1.0
       - acorn_c: -1.0
       - h2o_c: -1.0
-      - orn__L_c: 1.0
+      - orn_c: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: LKBDOH_02156
@@ -34713,7 +34719,7 @@
       - fa4coa_c: -0.34
       - fa6coa_c: -0.05
       - pmtcoa_c: -0.1
-      - strcoa_c: -0.03
+      - stcoa_c: -0.03
       - tdcoa_c: -0.03
     - lower_bound: -1000.0
     - upper_bound: 1000.0
@@ -36563,10 +36569,10 @@
     - id: APATi
     - name: Tetrahydrodipicolinate acetyltransferase
     - metabolites: !!omap
-      - acamoxm_c: 1.0
       - accoa_c: -1.0
       - coa_c: 1.0
       - h2o_c: -1.0
+      - nal2a6o_c: 1.0
       - thdp_c: -1.0
     - lower_bound: -1000.0
     - upper_bound: 1000.0
@@ -36726,9 +36732,9 @@
     - name: Acetyl L L diaminopimelate aminotransferase
     - metabolites: !!omap
       - 26dapime_c: 1.0
-      - acamoxm_c: -1.0
       - akg_c: 1.0
       - glu__L_c: -1.0
+      - nal2a6o_c: -1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: LKBDOH_03757
@@ -36954,7 +36960,7 @@
     - metabolites: !!omap
       - arg__L_c: -1.0
       - h2o_c: -1.0
-      - orn__L_c: 1.0
+      - orn_c: 1.0
       - urea_c: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
@@ -43147,7 +43153,7 @@
     - id: ECOAH1_1
     - name: 3 hydroxyacyl CoA dehydratase  3 hydroxybutanoyl CoA
     - metabolites: !!omap
-      - 3hbycoa_c: -1.0
+      - 3hbcoa_c: -1.0
       - b2coa_c: 1.0
       - h2o_c: 1.0
     - lower_bound: -1000.0
@@ -43368,8 +43374,8 @@
     - name: 3 hydroxyacyl CoA dehydratase  3 hydroxydodecanoyl CoA
     - metabolites: !!omap
       - 3hddcoa_c: -1.0
+      - dd2coa_c: 1.0
       - h2o_c: 1.0
-      - trans_dd2coa_c: 1.0
     - lower_bound: -1000.0
     - upper_bound: 1000.0
     - gene_reaction_rule: LKBDOH_00161 or LKBDOH_04145
@@ -44631,16 +44637,6 @@
     - annotation: !!omap
       - sbo: SBO:0000627
   - !!omap
-    - id: EX_galctr__D_e
-    - name: EX_galctr__D_e
-    - metabolites: !!omap
-      - galctr__D_e: -1.0
-    - lower_bound: -1000.0
-    - upper_bound: 1000.0
-    - gene_reaction_rule: ''
-    - annotation: !!omap
-      - sbo: SBO:0000627
-  - !!omap
     - id: EX_galt_e
     - name: EX_galt_e
     - metabolites: !!omap
@@ -44685,16 +44681,6 @@
     - name: EX_glc__aD_e
     - metabolites: !!omap
       - glc__aD_e: -1.0
-    - lower_bound: -1000.0
-    - upper_bound: 1000.0
-    - gene_reaction_rule: ''
-    - annotation: !!omap
-      - sbo: SBO:0000627
-  - !!omap
-    - id: EX_glcn__D_e
-    - name: EX_glcn__D_e
-    - metabolites: !!omap
-      - glcn__D_e: -1.0
     - lower_bound: -1000.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
@@ -45151,16 +45137,6 @@
     - annotation: !!omap
       - sbo: SBO:0000627
   - !!omap
-    - id: EX_istnt_e
-    - name: EX_istnt_e
-    - metabolites: !!omap
-      - istnt_e: -1.0
-    - lower_bound: -1000.0
-    - upper_bound: 1000.0
-    - gene_reaction_rule: ''
-    - annotation: !!omap
-      - sbo: SBO:0000627
-  - !!omap
     - id: EX_k_e
     - name: EX_k_e
     - metabolites: !!omap
@@ -45371,16 +45347,6 @@
     - annotation: !!omap
       - sbo: SBO:0000627
   - !!omap
-    - id: EX_metox_e
-    - name: EX_metox_e
-    - metabolites: !!omap
-      - metox_e: -1.0
-    - lower_bound: -1000.0
-    - upper_bound: 1000.0
-    - gene_reaction_rule: ''
-    - annotation: !!omap
-      - sbo: SBO:0000627
-  - !!omap
     - id: EX_mg2_e
     - name: EX_mg2_e
     - metabolites: !!omap
@@ -45505,16 +45471,6 @@
     - name: EX_o2_e
     - metabolites: !!omap
       - o2_e: -1.0
-    - lower_bound: -1000.0
-    - upper_bound: 1000.0
-    - gene_reaction_rule: ''
-    - annotation: !!omap
-      - sbo: SBO:0000627
-  - !!omap
-    - id: EX_orn__L_e
-    - name: EX_orn__L_e
-    - metabolites: !!omap
-      - orn__L_e: -1.0
     - lower_bound: -1000.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
@@ -46462,7 +46418,7 @@
       - coa_c: -1.0
       - ocdca_c: -1.0
       - ppi_c: 1.0
-      - strcoa_c: 1.0
+      - stcoa_c: 1.0
     - lower_bound: -1000.0
     - upper_bound: 1000.0
     - gene_reaction_rule: LKBDOH_00159 or LKBDOH_02413 or LKBDOH_02420 or LKBDOH_04149
@@ -47201,7 +47157,7 @@
       - gcald_c: 1.0
       - h2o_c: 1.0
       - h_c: 1.0
-      - istnt_c: -1.0
+      - isetac_c: -1.0
       - o2_c: -1.0
       - so3_c: 1.0
     - lower_bound: 0.0
@@ -48433,7 +48389,7 @@
       - fa6coa_c: -0.05
       - glyc3p_c: -1.0
       - pmtcoa_c: -0.1
-      - strcoa_c: -0.03
+      - stcoa_c: -0.03
       - tdcoa_c: -0.03
     - lower_bound: 0.0
     - upper_bound: 1000.0
@@ -48602,7 +48558,7 @@
     - name: Galactarate dehydratase
     - metabolites: !!omap
       - 5d4dglcr_c: 1.0
-      - galctr__D_c: -1.0
+      - galct__D_c: -1.0
       - h2o_c: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
@@ -48623,8 +48579,8 @@
     - id: GALCTRt2
     - name: Galactarate transport in via proton symport
     - metabolites: !!omap
-      - galctr__D_c: 1.0
-      - galctr__D_e: -1.0
+      - galct__D_c: 1.0
+      - galct__D_e: -1.0
       - h_c: 1.0
       - h_e: -1.0
     - lower_bound: 0.0
@@ -49529,8 +49485,8 @@
     - id: GLCNt2ir
     - name: D gluconate transport via proton symport
     - metabolites: !!omap
-      - glcn__D_c: 1.0
-      - glcn__D_e: -1.0
+      - glcn_c: 1.0
+      - glcn_e: -1.0
       - h_c: 1.0
       - h_e: -1.0
     - lower_bound: 0.0
@@ -49590,7 +49546,7 @@
     - id: GLCRAL_1
     - name: 5 dehydro 4 deoxyglucarate aldolase
     - metabolites: !!omap
-      - 2h3opp_c: 1.0
+      - 2h3oppan_c: 1.0
       - 5d4dglcr_c: -1.0
       - pyr_c: 1.0
     - lower_bound: 0.0
@@ -50378,7 +50334,7 @@
     - id: GLXCBL
     - name: Glyoxalate carboligase
     - metabolites: !!omap
-      - 2h3opp_c: 1.0
+      - 2h3oppan_c: 1.0
       - co2_c: 1.0
       - glx_c: -2.0
       - h_c: -1.0
@@ -51681,7 +51637,7 @@
       - 6pgc_c: 1.0
       - adp_c: 1.0
       - atp_c: -1.0
-      - glcn__D_c: -1.0
+      - glcn_c: -1.0
       - h_c: 1.0
     - lower_bound: -1000.0
     - upper_bound: 1000.0
@@ -52927,7 +52883,7 @@
     - id: HACD1_1
     - name: 3 hydroxyacyl CoA dehydrogenase  acetoacetyl CoA
     - metabolites: !!omap
-      - 3hbycoa_c: 1.0
+      - 3hbcoa_c: 1.0
       - aacoa_c: -1.0
       - h_c: -1.0
       - nad_c: 1.0
@@ -54061,7 +54017,7 @@
     - id: HOXPRx
     - name: 2 hydroxy 3 oxopropionate reductase  NAD
     - metabolites: !!omap
-      - 2h3opp_c: 1.0
+      - 2h3oppan_c: 1.0
       - glyc__R_c: -1.0
       - h_c: 1.0
       - nad_c: -1.0
@@ -55194,8 +55150,8 @@
       - atp_c: -1.0
       - h2o_c: -1.0
       - h_c: 1.0
-      - istnt_c: 1.0
-      - istnt_e: -1.0
+      - isetac_c: 1.0
+      - isetac_e: -1.0
       - pi_c: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
@@ -58381,7 +58337,7 @@
     - metabolites: !!omap
       - h2o_c: 1.0
       - met__L_c: 1.0
-      - metox_c: -1.0
+      - metsox_S__L_c: -1.0
       - trdox_c: 1.0
       - trdrd_c: -1.0
     - lower_bound: 0.0
@@ -58404,7 +58360,7 @@
       - h2o2_c: -1.0
       - h2o_c: 1.0
       - met__L_c: -1.0
-      - metox_c: 1.0
+      - metsox_S__L_c: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: LKBDOH_00818
@@ -58441,8 +58397,8 @@
       - atp_c: -1.0
       - h2o_c: -1.0
       - h_c: 1.0
-      - metox_c: 1.0
-      - metox_e: -1.0
+      - metsox_S__L_c: 1.0
+      - metsox_S__L_e: -1.0
       - pi_c: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
@@ -62717,7 +62673,7 @@
       - cbp_c: -1.0
       - citr__L_c: 1.0
       - h_c: 1.0
-      - orn__L_c: -1.0
+      - orn_c: -1.0
       - pi_c: 1.0
     - lower_bound: -1000.0
     - upper_bound: 1000.0
@@ -62997,7 +62953,7 @@
       - acglu_c: 1.0
       - acorn_c: -1.0
       - glu__L_c: -1.0
-      - orn__L_c: 1.0
+      - orn_c: 1.0
     - lower_bound: -1000.0
     - upper_bound: 1000.0
     - gene_reaction_rule: LKBDOH_02487
@@ -63020,7 +62976,7 @@
       - akg_c: -1.0
       - glu5sa_c: 1.0
       - glu__L_c: 1.0
-      - orn__L_c: -1.0
+      - orn_c: -1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: LKBDOH_01610
@@ -63095,8 +63051,8 @@
     - metabolites: !!omap
       - h_c: 1.0
       - h_e: -1.0
-      - orn__L_c: 1.0
-      - orn__L_e: -1.0
+      - orn_c: 1.0
+      - orn_e: -1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: LKBDOH_02906
