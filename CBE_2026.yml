@@ -164159,6 +164159,7 @@
       - refseq: WP_003152383.1
       - sbo: SBO:0000243
       - uniparc: UPI00015977E5
+      - uniprot: A7Z7R9
       - uniref100: I2C928
       - uniref50: P39912
       - uniref90: P39912
@@ -164405,6 +164406,7 @@
       - refseq: WP_007613091.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597741
+      - uniprot: A0AAI8HLQ0
       - uniref100: A7Z7M4
       - uniref50: P80864
       - uniref90: P80864
@@ -164426,6 +164428,7 @@
       - refseq: WP_007408053.1
       - sbo: SBO:0000243
       - uniparc: UPI000159773F
+      - uniprot: A7Z7M2
       - uniref100: A7Z7M2
       - uniref50: P37877
       - uniref90: P37877
@@ -164447,6 +164450,7 @@
       - refseq: WP_003152428.1
       - sbo: SBO:0000243
       - uniparc: UPI000159791C
+      - uniprot: A7Z7M0
       - uniref100: A7Z7M0
       - uniref50: A0RJM4
       - uniref90: O34347
@@ -164466,6 +164470,7 @@
       - refseq: WP_003152429.1
       - sbo: SBO:0000243
       - uniparc: UPI000159791B
+      - uniprot: A7Z7L9
       - uniref100: A7Z7L9
       - uniref50: O34858
       - uniref90: O34858
@@ -164590,6 +164595,7 @@
       - refseq: WP_007408068.1
       - sbo: SBO:0000243
       - uniparc: UPI000159790E
+      - uniprot: A7Z7K6
       - uniref100: A7Z7K6
       - uniref50: O34529
       - uniref90: O34529
@@ -164631,6 +164637,7 @@
       - refseq: WP_003152453.1
       - sbo: SBO:0000243
       - uniparc: UPI00015978D3
+      - uniprot: A7Z7K0
       - uniref100: I2C8V1
       - uniref50: P39120
       - uniref90: P39120
@@ -164673,6 +164680,7 @@
       - refseq: WP_003152455.1
       - sbo: SBO:0000243
       - uniparc: UPI00015978D1
+      - uniprot: A0A9P1JJD2
       - uniref100: A7Z7J8
       - uniref50: P49814
       - uniref90: P49814
@@ -164751,6 +164759,7 @@
       - refseq: WP_003152471.1
       - sbo: SBO:0000243
       - uniparc: UPI00018E18CF
+      - uniprot: A0A9P1JIX4
       - uniref100: A7Z7I7
       - uniref50: O34426
       - uniref90: O34426
@@ -164828,6 +164837,7 @@
       - refseq: WP_007408105.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597831
+      - uniprot: A7Z7G2
       - uniref100: A7Z7G2
       - uniref50: P94529
       - uniref90: A0A9P1JIW4
@@ -164941,6 +164951,7 @@
       - refseq: WP_007408121.1
       - sbo: SBO:0000243
       - uniparc: UPI00015977DD
+      - uniprot: A7Z7E1
       - uniref100: I2C8N9
       - uniref50: P94550
       - uniref90: I2C8N9
@@ -164985,6 +164996,7 @@
       - refseq: WP_003152560.1
       - sbo: SBO:0000243
       - uniparc: UPI00015977DA
+      - uniprot: A0A9P1JJ77
       - uniref100: A0A0D7XV65
       - uniref50: P14949
       - uniref90: P14949
@@ -165017,6 +165029,7 @@
       - refseq: WP_003152571.1
       - sbo: SBO:0000243
       - uniparc: UPI00015977D6
+      - uniprot: A0A9P1NIE7
       - uniref100: A0A0D7XVE8
       - uniref50: P08064
       - uniref90: P08064
@@ -165040,6 +165053,7 @@
       - refseq: WP_003152573.1
       - sbo: SBO:0000243
       - uniparc: UPI00015977D5
+      - uniprot: A0AAI8MXM6
       - uniref100: A0A9Q3QFG6
       - uniref50: P08065
       - uniref90: P08065
@@ -165058,6 +165072,7 @@
       - refseq: WP_003152575.1
       - sbo: SBO:0000243
       - uniparc: UPI00015977D4
+      - uniprot: A7Z7D2
       - uniref100: A0A9Q3QIZ4
       - uniref50: P08066
       - uniref90: A0A9P1JIT8
@@ -165149,6 +165164,7 @@
       - refseq: WP_003152598.1
       - sbo: SBO:0000243
       - uniparc: UPI0002415FF9
+      - uniprot: A0A150F488
       - uniref100: A0A150F488
       - uniref50: P37252
       - uniref90: P37252
@@ -165244,6 +165260,7 @@
       - refseq: WP_007408146.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597782
+      - uniprot: A7Z7B5
       - uniref100: A7Z7B5
       - uniref50: Q67MJ3
       - uniref90: A7Z7B5
@@ -165281,6 +165298,7 @@
       - refseq: WP_012118114.1
       - sbo: SBO:0000243
       - uniparc: UPI000159773C
+      - uniprot: A7Z7A5
       - uniref100: A7Z7A5
       - uniref50: O34090
       - uniref90: A7Z7A5
@@ -165367,6 +165385,7 @@
       - refseq: WP_012118105.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597731
+      - uniprot: A7Z794
       - uniref100: A7Z794
       - uniref50: Q02169
       - uniref90: A7Z794
@@ -165381,6 +165400,7 @@
       - refseq: WP_007408173.1
       - sbo: SBO:0000243
       - uniparc: UPI00019511FA
+      - uniprot: A7Z780
       - uniref100: A7Z780
       - uniref50: P21204
       - uniref90: P21204
@@ -165398,6 +165418,7 @@
       - refseq: WP_003152668.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597B79
+      - uniprot: A7Z779
       - uniref100: A7Z779
       - uniref50: P21203
       - uniref90: A7Z779
@@ -165502,6 +165523,7 @@
       - refseq: WP_003152714.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597B19
+      - uniprot: A7Z756
       - uniref100: A7Z756
       - uniref50: O34443
       - uniref90: O34443
@@ -165522,6 +165544,7 @@
       - refseq: WP_003152716.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597B18
+      - uniprot: A7Z755
       - uniref100: A0A9Q3LFB1
       - uniref50: O54408
       - uniref90: O54408
@@ -165648,6 +165671,7 @@
       - refseq: WP_003152763.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597A82
+      - uniprot: A0A9P1JIK0
       - uniref100: A7Z727
       - uniref50: Q8DTG1
       - uniref90: O32033
@@ -165768,6 +165792,7 @@
       - refseq: WP_007408225.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597A75
+      - uniprot: A7Z714
       - uniref100: A0A9Q3QJ39
       - uniref50: O05399
       - uniref90: A0A9P1JIL1
@@ -165897,6 +165922,7 @@
       - refseq: WP_003152868.1
       - sbo: SBO:0000243
       - uniparc: UPI00015979DA
+      - uniprot: A0A9P1NI80
       - uniref100: A0A9Q3QGA9
       - uniref50: P32393
       - uniref90: P32393
@@ -165940,6 +165966,7 @@
       - refseq: WP_007408273.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597997
+      - uniprot: A7Z6W1
       - uniref100: A7Z6W1
       - uniref50: P17820
       - uniref90: P17820
@@ -166028,6 +166055,7 @@
       - refseq: WP_007408285.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597958
+      - uniprot: A7Z6U3
       - uniref100: A0AAP3YCL7
       - uniref50: P42182
       - uniref90: P42182
@@ -166086,6 +166114,7 @@
       - refseq: WP_003153025.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597905
+      - uniprot: A7Z6R8
       - uniref100: A0AAP3YC50
       - uniref50: P54375
       - uniref90: P54375
@@ -166371,6 +166400,7 @@
       - refseq: WP_007408348.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597858
+      - uniprot: A7Z6K2
       - uniref100: A0A9Q3QGE3
       - uniref50: P49787
       - uniref90: P49787
@@ -166395,6 +166425,7 @@
       - refseq: WP_007408350.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597855
+      - uniprot: A7Z6J9
       - uniref100: A7Z6J9
       - uniref50: P54382
       - uniref90: P54382
@@ -166723,6 +166754,7 @@
       - refseq: WP_003153227.1
       - sbo: SBO:0000243
       - uniparc: UPI00015977BF
+      - uniprot: A7Z6G2
       - uniref100: A0A9Q3LE76
       - uniref50: P54536
       - uniref90: P54536
@@ -166794,6 +166826,7 @@
       - refseq: WP_003153237.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597777
+      - uniprot: A7Z6F6
       - uniref100: A0A9Q3QFR0
       - uniref50: P54542
       - uniref90: P54542
@@ -166837,6 +166870,7 @@
       - refseq: WP_012117935.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597772
+      - uniprot: A7Z6F1
       - uniref100: A7Z6F1
       - uniref50: P54547
       - uniref90: P54547
@@ -167068,6 +167102,7 @@
       - refseq: WP_007409402.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597B0E
+      - uniprot: A7Z6A3
       - uniref100: A7Z6A3
       - uniref50: A0AAJ1TBT6
       - uniref90: A0A9P1JI84
@@ -167126,6 +167161,7 @@
       - refseq: WP_012117893.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597AFF
+      - uniprot: A7Z683
       - uniref100: A7Z683
       - uniref50: P23630
       - uniref90: A0A9P1NI87
@@ -167190,6 +167226,7 @@
       - refseq: WP_003153371.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597AB9
+      - uniprot: A7Z675
       - uniref100: A7Z675
       - uniref50: P17620
       - uniref90: P17620
@@ -167209,6 +167246,7 @@
       - refseq: WP_003153372.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597AB8
+      - uniprot: A7Z674
       - uniref100: A7Z674
       - uniref50: P11998
       - uniref90: P11998
@@ -167285,6 +167323,7 @@
       - refseq: WP_003153413.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597A61
+      - uniprot: A7Z646
       - uniref100: I2C751
       - uniref50: P39633
       - uniref90: P50735
@@ -167382,6 +167421,7 @@
       - refseq: WP_003153433.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597A25
+      - uniprot: A7Z636
       - uniref100: A7Z636
       - uniref50: P50743
       - uniref90: P50743
@@ -167428,6 +167468,7 @@
       - refseq: WP_003153448.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597A20
+      - uniprot: A0A9P1JHV6
       - uniref100: A7Z630
       - uniref50: P19465
       - uniref90: P19465
@@ -167710,6 +167751,7 @@
       - refseq: WP_003153499.1
       - sbo: SBO:0000243
       - uniparc: UPI00015979C4
+      - uniprot: A7Z5Z9
       - uniref100: A7Z5Z9
       - uniref50: Q9XCV1
       - uniref90: A7Z5Z9
@@ -167780,6 +167822,7 @@
       - refseq: WP_003153510.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597986
+      - uniprot: A7Z5Z2
       - uniref100: A7Z5Z2
       - uniref50: P52999
       - uniref90: P52999
@@ -167813,6 +167856,7 @@
       - refseq: WP_012117833.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597974
+      - uniprot: A7Z5X4
       - uniref100: A0AAP4DGJ6
       - uniref50: Q9KCQ4
       - uniref90: A0A9P1JHT1
@@ -167931,6 +167975,7 @@
       - refseq: WP_007409524.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597B8C
+      - uniprot: A7Z5T7
       - uniref100: A7Z5T7
       - uniref50: P51785
       - uniref90: P51785
@@ -167965,6 +168010,7 @@
       - refseq: WP_012117807.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597B87
+      - uniprot: A7Z5T2
       - uniref100: A7Z5T2
       - uniref50: Q54277
       - uniref90: I2C6M7
@@ -167995,6 +168041,7 @@
       - refseq: WP_007612085.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597B83
+      - uniprot: A7Z5S8
       - uniref100: A0AAP4DGM0
       - uniref50: P37946
       - uniref90: I2C6M3
@@ -168013,6 +168060,7 @@
       - refseq: WP_003153641.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597B3A
+      - uniprot: A7Z5S2
       - uniref100: A7Z5S2
       - uniref50: P0A086
       - uniref90: A7Z5S2
@@ -168032,6 +168080,7 @@
       - refseq: WP_007409536.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597B39
+      - uniprot: A7Z5S1
       - uniref100: A7Z5S1
       - uniref50: P54155
       - uniref90: P54155
@@ -168275,6 +168324,7 @@
       - refseq: WP_003153791.1
       - sbo: SBO:0000243
       - uniparc: UPI00024168A5
+      - uniprot: A0AAI8HNR3
       - uniref100: A0A2H6ME89
       - uniref50: O35022
       - uniref90: O35022
@@ -168464,6 +168514,7 @@
       - refseq: WP_012118534.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597DCD
+      - uniprot: A0AAI8HKV4
       - uniref100: A0AAP4DHG2
       - uniref50: O06976
       - uniref90: O06976
@@ -168692,6 +168743,7 @@
       - refseq: WP_003151456.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597E08
+      - uniprot: A7Z973
       - uniref100: A7Z973
       - uniref50: O34483
       - uniref90: O34483
@@ -168804,6 +168856,7 @@
       - refseq: WP_007407465.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597E5A
+      - uniprot: A7Z995
       - uniref100: A0AAP3YDP5
       - uniref50: O34814
       - uniref90: O34814
@@ -168829,6 +168882,7 @@
       - refseq: WP_003151382.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597E88
+      - uniprot: A7Z9C2
       - uniref100: A7Z9C2
       - uniref50: O34753
       - uniref90: O34753
@@ -168928,6 +168982,7 @@
       - refseq: WP_003151361.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597EB3
+      - uniprot: A0A9P1JK90
       - uniref100: A0A0D7XUE5
       - uniref50: P27623
       - uniref90: Q62PQ0
@@ -168998,6 +169053,7 @@
       - refseq: WP_007407509.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597BBF
+      - uniprot: A7Z9F0
       - uniref100: A7Z9F0
       - uniref50: A0A0H2VG78
       - uniref90: A0A7W4QHM0
@@ -169125,6 +169181,7 @@
       - refseq: WP_003151318.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597BEF
+      - uniprot: A7Z9H0
       - uniref100: M9TJ00
       - uniref50: Q04777
       - uniref90: M9TJ00
@@ -169238,6 +169295,7 @@
       - refseq: WP_003151242.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597C39
+      - uniprot: A0A9P1JKV8
       - uniref100: A7Z9L0
       - uniref50: P94584
       - uniref90: P94584
@@ -169263,6 +169321,7 @@
       - refseq: WP_012118644.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597C58
+      - uniprot: A7Z9M0
       - uniref100: A0AAP3YDH0
       - uniref50: A0A411AB64
       - uniref90: A0A411AB64
@@ -169280,6 +169339,7 @@
       - refseq: WP_003151223.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597C59
+      - uniprot: A7Z9M1
       - uniref100: A0A9Q3LHY8
       - uniref50: Q07429
       - uniref90: Q07429
@@ -169293,6 +169353,7 @@
       - refseq: WP_012118646.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597C5C
+      - uniprot: A7Z9M4
       - uniref100: A7Z9M4
       - uniref50: P94571
       - uniref90: I2CB45
@@ -169524,6 +169585,7 @@
       - refseq: WP_007407608.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597CBD
+      - uniprot: A7Z9S3
       - uniref100: A0AAP3YDX8
       - uniref50: P45869
       - uniref90: I2CBA0
@@ -169579,6 +169641,7 @@
       - refseq: WP_003151105.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597CC1
+      - uniprot: A7Z9S8
       - uniref100: A0A9Q3LIS9
       - uniref50: Q03224
       - uniref90: Q03224
@@ -169621,6 +169684,7 @@
       - refseq: WP_007407613.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597CC3
+      - uniprot: A7Z9T0
       - uniref100: A7Z9T0
       - uniref50: P19669
       - uniref90: P19669
@@ -169641,6 +169705,7 @@
       - refseq: WP_003151102.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597CC4
+      - uniprot: A0AAI8MYQ5
       - uniref100: A0A9Q3LFB4
       - uniref50: P13243
       - uniref90: P13243
@@ -169665,6 +169730,7 @@
       - refseq: WP_003151098.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597CE2
+      - uniprot: A7Z9T4
       - uniref100: A7Z9T4
       - uniref50: P13242
       - uniref90: P13242
@@ -169806,6 +169872,7 @@
       - refseq: WP_007407632.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597D1C
+      - uniprot: A7Z9V0
       - uniref100: I2CBC7
       - uniref50: P46907
       - uniref90: P46907
@@ -169825,6 +169892,7 @@
       - refseq: WP_007614448.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597D26
+      - uniprot: A7Z9W4
       - uniref100: A7Z9W4
       - uniref50: P70999
       - uniref90: P70999
@@ -169844,6 +169912,7 @@
       - refseq: WP_003151052.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597D27
+      - uniprot: A7Z9W5
       - uniref100: A7Z9W5
       - uniref50: P70998
       - uniref90: P70998
@@ -169908,6 +169977,7 @@
       - refseq: WP_003151012.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597D6D
+      - uniprot: A7Z9Y8
       - uniref100: A7Z9Y8
       - uniref50: P39646
       - uniref90: P39646
@@ -169953,6 +170023,7 @@
       - refseq: WP_012118711.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597DA7
+      - uniprot: A7Z9Z9
       - uniref100: I2CBH3
       - uniref50: P39137
       - uniref90: I2CBH3
@@ -170087,6 +170158,7 @@
       - refseq: WP_007407708.1
       - sbo: SBO:0000243
       - uniparc: UPI0000EFD35F
+      - uniprot: A0AAI8MYP2
       - uniref100: I2CBL2
       - uniref50: P39605
       - uniref90: A0A411ABL3
@@ -170137,6 +170209,7 @@
       - refseq: WP_003150930.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597E12
+      - uniprot: A7ZA44
       - uniref100: A0A9Q3QI87
       - uniref50: P34958
       - uniref90: P34958
@@ -170188,6 +170261,7 @@
       - refseq: WP_012118744.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597E14
+      - uniprot: A0AAI8N261
       - uniref100: A7ZA46
       - uniref50: P34957
       - uniref90: P34957
@@ -170337,6 +170411,7 @@
       - refseq: WP_007407732.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597E45
+      - uniprot: A7ZA71
       - uniref100: I2CBP9
       - uniref50: P39583
       - uniref90: P39583
@@ -170377,6 +170452,7 @@
       - refseq: WP_012118762.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597E49
+      - uniprot: A7ZA75
       - uniref100: A7ZA75
       - uniref50: P39580
       - uniref90: P39580
@@ -170397,6 +170473,7 @@
       - refseq: WP_003150875.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597E4A
+      - uniprot: A0AAI8MYK8
       - uniref100: A7ZA76
       - uniref50: P39579
       - uniref90: A7ZA76
@@ -170498,6 +170575,7 @@
       - refseq: WP_003150863.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597E70
+      - uniprot: A0AAI8HK72
       - uniref100: A0A9Q3LJ20
       - uniref50: P46318
       - uniref90: P46318
@@ -170718,6 +170796,7 @@
       - refseq: WP_007614697.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597E97
+      - uniprot: A7ZAA4
       - uniref100: A0AAP3YDB1
       - uniref50: P94364
       - uniref90: I2CBT6
@@ -170731,6 +170810,7 @@
       - refseq: WP_012118784.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597E98
+      - uniprot: A7ZAA5
       - uniref100: A7ZAA5
       - uniref50: P94363
       - uniref90: A0A9P1JKW8
@@ -170975,6 +171055,7 @@
       - refseq: WP_004393280.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597BDA
+      - uniprot: A7ZAF0
       - uniref100: A0A9Q3LL33
       - uniref50: P39141
       - uniref90: A0A7D7MSK5
@@ -170995,6 +171076,7 @@
       - refseq: WP_004393277.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597BDB
+      - uniprot: A0A9P1JLG2
       - uniref100: A7ZAF1
       - uniref50: Q5WHF4
       - uniref90: A7ZAF1
@@ -171063,6 +171145,7 @@
       - refseq: WP_012118841.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597C17
+      - uniprot: A7ZAH3
       - uniref100: A7ZAH3
       - uniref50: P42419
       - uniref90: P42419
@@ -171210,6 +171293,7 @@
       - refseq: WP_007407843.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597C42
+      - uniprot: A7ZAI3
       - uniref100: A0AAP3YDG3
       - uniref50: P46336
       - uniref90: A0A9P1NJA9
@@ -171276,6 +171360,7 @@
       - refseq: WP_004393188.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597C6D
+      - uniprot: A0AAI8MYH3
       - uniref100: I2CC47
       - uniref50: K0J4Q8
       - uniref90: P80239
@@ -171415,6 +171500,7 @@
       - refseq: WP_007407883.1
       - sbo: SBO:0000243
       - uniparc: UPI0000F264BE
+      - uniprot: A7ZAM6
       - uniref100: I2CC71
       - uniref50: P39138
       - uniref90: P39138
@@ -171449,6 +171535,7 @@
       - refseq: WP_004393130.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597CA4
+      - uniprot: A7ZAM8
       - uniref100: I2CC73
       - uniref50: P38021
       - uniref90: P38021
@@ -171568,6 +171655,7 @@
       - refseq: WP_004393053.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597CFA
+      - uniprot: A0AAI8HJY1
       - uniref100: A7ZAR2
       - uniref50: P37487
       - uniref90: P37487
@@ -171760,6 +171848,7 @@
       - refseq: WP_007410365.1
       - sbo: SBO:0000243
       - uniparc: UPI00015976CB
+      - uniprot: A7Z513
       - uniref100: A0AAP3YGI1
       - uniref50: P12425
       - uniref90: P12425
@@ -171852,6 +171941,7 @@
       - refseq: WP_012117608.1
       - sbo: SBO:0000243
       - uniparc: UPI00015976C4
+      - uniprot: A7Z506
       - uniref100: A7Z506
       - uniref50: P50621
       - uniref90: P50621
@@ -171872,6 +171962,7 @@
       - refseq: WP_007611605.1
       - sbo: SBO:0000243
       - uniparc: UPI00015976C3
+      - uniprot: A0AAI8HP62
       - uniref100: A0AAP3YFP9
       - uniref50: P50620
       - uniref90: P50620
@@ -171939,6 +172030,7 @@
       - refseq: WP_003154094.1
       - sbo: SBO:0000243
       - uniparc: UPI0000D579F8
+      - uniprot: A7Z4Y4
       - uniref100: Q1RS74
       - uniref50: P40802
       - uniref90: Q1RS74
@@ -172074,6 +172166,7 @@
       - refseq: WP_003154168.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597682
+      - uniprot: A7Z4U7
       - uniref100: A0A9Q3LIE1
       - uniref50: Q04795
       - uniref90: Q04795
@@ -172137,6 +172230,7 @@
       - refseq: WP_012117567.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597678
+      - uniprot: A7Z4T7
       - uniref100: A7Z4T7
       - uniref50: P32732
       - uniref90: A7Z4T7
@@ -172242,6 +172336,7 @@
       - refseq: WP_003154283.1
       - sbo: SBO:0000243
       - uniparc: UPI00015975D2
+      - uniprot: A7Z4M9
       - uniref100: A7Z4M9
       - uniref50: P80886
       - uniref90: P80886
@@ -172262,6 +172357,7 @@
       - refseq: WP_007611396.1
       - sbo: SBO:0000243
       - uniparc: UPI00015975CE
+      - uniprot: A7Z4M5
       - uniref100: A7Z4M5
       - uniref50: O31743
       - uniref90: O31743
@@ -172282,6 +172378,7 @@
       - refseq: WP_003154310.1
       - sbo: SBO:0000243
       - uniparc: UPI00000603BF
+      - uniprot: A0AAP3CLX5
       - uniref100: P80643
       - uniref50: P80643
       - uniref90: P80643
@@ -172302,6 +172399,7 @@
       - refseq: WP_003154312.1
       - sbo: SBO:0000243
       - uniparc: UPI00015975C1
+      - uniprot: A7Z4L1
       - uniref100: A0A9Q3QIC7
       - uniref50: P51831
       - uniref90: P51831
@@ -172468,6 +172566,7 @@
       - refseq: WP_003154347.1
       - sbo: SBO:0000243
       - uniparc: UPI00015975F6
+      - uniprot: A7Z4I8
       - uniref100: A0A9Q3LDE5
       - uniref50: O34328
       - uniref90: O34328
@@ -172527,6 +172626,7 @@
       - refseq: WP_007409740.1
       - sbo: SBO:0000243
       - uniparc: UPI00015975F0
+      - uniprot: A7Z4I1
       - uniref100: A7Z4I1
       - uniref50: P29928
       - uniref90: A7Z4I1
@@ -172578,6 +172678,7 @@
       - refseq: WP_012117522.1
       - sbo: SBO:0000243
       - uniparc: UPI00015975ED
+      - uniprot: A7Z4H8
       - uniref100: A7Z4H8
       - uniref50: O34734
       - uniref90: A7Z4H8
@@ -172604,6 +172705,7 @@
       - refseq: WP_003154369.1
       - sbo: SBO:0000243
       - uniparc: UPI00015975EC
+      - uniprot: A7Z4H7
       - uniref100: A7Z4H7
       - uniref50: P94498
       - uniref90: P94498
@@ -172714,6 +172816,7 @@
       - refseq: WP_007409730.1
       - sbo: SBO:0000243
       - uniparc: UPI00015975E6
+      - uniprot: A7Z4H1
       - uniref100: A0A9Q3LDU7
       - uniref50: P25993
       - uniref90: P25993
@@ -172789,6 +172892,7 @@
       - refseq: WP_003154392.1
       - sbo: SBO:0000243
       - uniparc: UPI00015975E2
+      - uniprot: A0A9P1NHN3
       - uniref100: A7Z4G7
       - uniref50: P0DH77
       - uniref90: A7Z4G7
@@ -172959,6 +173063,7 @@
       - refseq: WP_007409707.1
       - sbo: SBO:0000243
       - uniparc: UPI00015975A2
+      - uniprot: A0AAI8N0S7
       - uniref100: A7Z4E2
       - uniref50: Q03521
       - uniref90: Q03521
@@ -173153,6 +173258,7 @@
       - refseq: WP_003155420.1
       - sbo: SBO:0000243
       - uniparc: UPI00005C50EC
+      - uniprot: A7Z2P8
       - uniref100: Q3HNK4
       - uniref50: P26901
       - uniref90: P26901
@@ -173241,6 +173347,7 @@
       - refseq: WP_003155386.1
       - sbo: SBO:0000243
       - uniparc: UPI000159739D
+      - uniprot: A7Z2R8
       - uniref100: A0A9Q3LIM3
       - uniref50: P54586
       - uniref90: P54586
@@ -173267,6 +173374,7 @@
       - refseq: WP_012117151.1
       - sbo: SBO:0000243
       - uniparc: UPI00015973A2
+      - uniprot: A7Z2S3
       - uniref100: A7Z2S3
       - uniref50: P54592
       - uniref90: A7Z2S3
@@ -173325,6 +173433,7 @@
       - refseq: WP_007408449.1
       - sbo: SBO:0000243
       - uniparc: UPI00015973AE
+      - uniprot: A7Z2T7
       - uniref100: A2RH41
       - uniref50: I2C2X5
       - uniref90: I2C2X5
@@ -173337,6 +173446,7 @@
       - refseq: WP_003155347.1
       - sbo: SBO:0000243
       - uniparc: UPI0000EFD362
+      - uniprot: A7Z2T8
       - uniref100: A2RH42
       - uniref50: P54607
       - uniref90: A0A9P1JG92
@@ -173359,6 +173469,7 @@
       - refseq: WP_007610287.1
       - sbo: SBO:0000243
       - uniparc: UPI0000EFD365
+      - uniprot: A7Z2U1
       - uniref100: A2RH45
       - uniref50: E3EBU4
       - uniref90: A2RH45
@@ -173581,6 +173692,7 @@
       - refseq: WP_007409236.1
       - sbo: SBO:0000243
       - uniparc: UPI000159741E
+      - uniprot: A7Z2Z5
       - uniref100: A7Z2Z5
       - uniref50: Q796V8
       - uniref90: I2C336
@@ -173616,6 +173728,7 @@
       - refseq: WP_012117200.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597421
+      - uniprot: A7Z2Z8
       - uniref100: A7Z2Z8
       - uniref50: O07535
       - uniref90: O07535
@@ -173643,6 +173756,7 @@
       - refseq: WP_007409231.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597424
+      - uniprot: A7Z301
       - uniref100: A0AAP4DJB5
       - uniref50: C0SPB4
       - uniref90: A0A9P1JG43
@@ -173939,6 +174053,7 @@
       - refseq: WP_029973157.1
       - sbo: SBO:0000243
       - uniparc: UPI0003A3B880
+      - uniprot: A0AAI8N179
       - uniref100: A0AAI8N179
       - uniref50: P70947
       - uniref90: A0AAP5QP92
@@ -174035,6 +174150,7 @@
       - refseq: WP_012117273.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597408
+      - uniprot: A7Z3B1
       - uniref100: A7Z3B1
       - uniref50: P36838
       - uniref90: A7Z3B1
@@ -174087,6 +174203,7 @@
       - refseq: WP_007409122.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597412
+      - uniprot: A7Z3C1
       - uniref100: A0AAP3YFR0
       - uniref50: O34746
       - uniref90: O34746
@@ -174166,6 +174283,7 @@
       - refseq: WP_003155051.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597418
+      - uniprot: A7Z3C7
       - uniref100: A7Z3C7
       - uniref50: P42062
       - uniref90: A0A5C0WBR3
@@ -174227,6 +174345,7 @@
       - refseq: WP_003155039.1
       - sbo: SBO:0000243
       - uniparc: UPI00015974F1
+      - uniprot: A7Z3D4
       - uniref100: A7Z3D4
       - uniref50: P24136
       - uniref90: P24136
@@ -174317,6 +174436,7 @@
       - refseq: WP_003155018.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597500
+      - uniprot: A7Z3F0
       - uniref100: A0A9Q3LEM6
       - uniref50: Q8Y8D7
       - uniref90: O31612
@@ -174612,6 +174732,7 @@
       - refseq: WP_007613337.1
       - sbo: SBO:0000243
       - uniparc: UPI00015979B1
+      - uniprot: A7Z830
       - uniref100: A7Z830
       - uniref50: P94507
       - uniref90: A7Z830
@@ -174686,6 +174807,7 @@
       - refseq: WP_007408647.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597A05
+      - uniprot: A7Z848
       - uniref100: A7Z848
       - uniref50: P80860
       - uniref90: P80860
@@ -174798,6 +174920,7 @@
       - refseq: WP_012118308.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597A50
+      - uniprot: A7Z871
       - uniref100: A0AAP4DJR7
       - uniref50: O05254
       - uniref90: I2C9J7
@@ -174814,6 +174937,7 @@
       - refseq: WP_003152071.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597A51
+      - uniprot: A7Z872
       - uniref100: A0A0D7XSB2
       - uniref50: O05255
       - uniref90: O05255
@@ -174843,6 +174967,7 @@
       - refseq: WP_007613424.1
       - sbo: SBO:0000243
       - uniparc: UPI00025317BC
+      - uniprot: A0AAI8MZ76
       - uniref100: A0AAI8MZ76
       - uniref50: Q9RGZ4
       - uniref90: A0A9P1JJ50
@@ -174902,6 +175027,7 @@
       - refseq: WP_012118311.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597A57
+      - uniprot: A7Z878
       - uniref100: A7Z878
       - uniref50: O05228
       - uniref90: O05228
@@ -174919,6 +175045,7 @@
       - refseq: WP_003152056.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597A58
+      - uniprot: A7Z879
       - uniref100: A7Z879
       - uniref50: A0A9P1NIJ6
       - uniref90: A0A9P1NIJ6
@@ -174951,6 +175078,7 @@
       - refseq: WP_014418767.1
       - sbo: SBO:0000243
       - uniparc: UPI00025317C6
+      - uniprot: A7Z888
       - uniref100: A7Z888
       - uniref50: O32090
       - uniref90: O32090
@@ -174966,6 +175094,7 @@
       - refseq: WP_003152033.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597A9B
+      - uniprot: A7Z889
       - uniref100: A0A9Q3QK74
       - uniref50: O32091
       - uniref90: A0A7S7KRU8
@@ -174983,6 +175112,7 @@
       - refseq: WP_003152011.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597AA9
+      - uniprot: A7Z8A3
       - uniref100: I2C9N2
       - uniref50: Q08352
       - uniref90: A0A9P1JJH5
@@ -175079,6 +175209,7 @@
       - refseq: WP_007408702.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597AF8
+      - uniprot: A7Z8B3
       - uniref100: A0A9Q3LKA7
       - uniref50: A0A9P1NJ67
       - uniref90: A0A9P1NJ67
@@ -175098,6 +175229,7 @@
       - refseq: WP_007408704.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597AFA
+      - uniprot: A7Z8B5
       - uniref100: A7Z8B5
       - uniref50: O32106
       - uniref90: A7Z8B5
@@ -175353,6 +175485,7 @@
       - refseq: WP_007613586.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597719
+      - uniprot: A7Z8G8
       - uniref100: A7Z8G8
       - uniref50: A0A411AA32
       - uniref90: A0A411AA32
@@ -175366,6 +175499,7 @@
       - refseq: WP_003151895.1
       - sbo: SBO:0000243
       - uniparc: UPI000159771A
+      - uniprot: A7Z8G9
       - uniref100: A7Z8G9
       - uniref50: O32154
       - uniref90: A0A7W4LYF7
@@ -175453,6 +175587,7 @@
       - refseq: WP_012118383.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597752
+      - uniprot: A7Z8I7
       - uniref100: A0AAP4DJN2
       - uniref50: O32168
       - uniref90: O32168
@@ -175466,6 +175601,7 @@
       - refseq: WP_003151850.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597753
+      - uniprot: A7Z8I8
       - uniref100: A0A9Q3LKU6
       - uniref50: O32169
       - uniref90: I2C9X5
@@ -175495,6 +175631,7 @@
       - refseq: WP_007613612.1
       - sbo: SBO:0000243
       - uniparc: UPI000159775A
+      - uniprot: A7Z8J5
       - uniref100: A0AAP3YI95
       - uniref50: A0A653A752
       - uniref90: A0A9P1JJX9
@@ -175750,6 +175887,7 @@
       - refseq: WP_007410023.1
       - sbo: SBO:0000243
       - uniparc: UPI000159793E
+      - uniprot: A0A9P1JJU0
       - uniref100: A0A9P1JJU0
       - uniref50: A0A2X4VTE6
       - uniref90: A0A9P1JJU0
@@ -175863,6 +176001,7 @@
       - refseq: WP_015240581.1
       - sbo: SBO:0000243
       - uniparc: UPI0002416539
+      - uniprot: A0AAI8N227
       - uniref100: A0A9Q3QI51
       - uniref50: O32221
       - uniref90: A0A9Q3QI51
@@ -175882,6 +176021,7 @@
       - refseq: WP_012118449.1
       - sbo: SBO:0000243
       - uniparc: UPI000159789B
+      - uniprot: A7Z8S7
       - uniref100: A7Z8S7
       - uniref50: O32224
       - uniref90: O32224
@@ -176003,6 +176143,7 @@
       - refseq: WP_003151654.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597843
+      - uniprot: A7Z8W4
       - uniref100: A0A9Q3LF95
       - uniref50: O34878
       - uniref90: O34878
@@ -176043,6 +176184,7 @@
       - refseq: WP_007409956.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597854
+      - uniprot: A0A9P1NIX6
       - uniref100: A7Z8Y1
       - uniref50: P37869
       - uniref90: A8FHJ0
@@ -176085,6 +176227,7 @@
       - refseq: WP_003151618.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597D0C
+      - uniprot: A0AAI8HL11
       - uniref100: A7Z8Y3
       - uniref50: P27876
       - uniref90: P27876
@@ -176128,6 +176271,7 @@
       - refseq: WP_003151611.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597D0E
+      - uniprot: A0A9P1JKA3
       - uniref100: A0A0D7XTZ6
       - uniref50: P09124
       - uniref90: P09124
@@ -176141,6 +176285,7 @@
       - refseq: WP_003151605.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597D10
+      - uniprot: A7Z8Y7
       - uniref100: A0A9Q3LFI9
       - uniref50: P96710
       - uniref90: I2CAB7
@@ -176184,6 +176329,7 @@
       - refseq: WP_007407372.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597D1B
+      - uniprot: A7Z8Z8
       - uniref100: A7Z8Z8
       - uniref50: P12011
       - uniref90: A7Z8Z8
@@ -176227,6 +176373,7 @@
       - refseq: WP_007407375.1
       - sbo: SBO:0000243
       - uniparc: UPI0001B30563
+      - uniprot: A7Z901
       - uniref100: A7Z901
       - uniref50: O07021
       - uniref90: O07021
@@ -176347,6 +176494,7 @@
       - refseq: WP_007408567.1
       - sbo: SBO:0000243
       - uniparc: UPI00015973F4
+      - uniprot: A7Z2N8
       - uniref100: A7Z2N8
       - uniref50: Q3B1A1
       - uniref90: A7Z2N8
@@ -176586,6 +176734,7 @@
       - refseq: WP_012117078.1
       - sbo: SBO:0000243
       - uniparc: UPI00015972F7
+      - uniprot: A7Z2G9
       - uniref100: A7Z2G9
       - uniref50: O35016
       - uniref90: A0A9P1JFD0
@@ -176623,6 +176772,7 @@
       - refseq: WP_007408504.1
       - sbo: SBO:0000243
       - uniparc: UPI00026BA36F
+      - uniprot: A7Z2G5
       - uniref100: A7Z2G5
       - uniref50: A0AAE6Z2V0
       - uniref90: A0A9P1JET6
@@ -176757,6 +176907,7 @@
       - refseq: WP_007408485.1
       - sbo: SBO:0000243
       - uniparc: UPI00015972D9
+      - uniprot: A7Z2D9
       - uniref100: A7Z2D9
       - uniref50: P55069
       - uniref90: A0A411A3J4
@@ -176785,6 +176936,7 @@
       - refseq: WP_007408966.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597352
+      - uniprot: A0AAI8HQQ8
       - uniref100: A0AAP3YIV1
       - uniref50: O34726
       - uniref90: O34726
@@ -176802,6 +176954,7 @@
       - refseq: WP_012117051.1
       - sbo: SBO:0000243
       - uniparc: UPI000159734C
+      - uniprot: A7Z2C5
       - uniref100: I2C2D7
       - uniref50: O34512
       - uniref90: O34512
@@ -176843,6 +176996,7 @@
       - refseq: WP_007408956.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597347
+      - uniprot: A7Z2C0
       - uniref100: A7Z2C0
       - uniref50: E6LEU2
       - uniref90: A0A9P1JFI0
@@ -176903,6 +177057,7 @@
       - refseq: WP_007408940.1
       - sbo: SBO:0000243
       - uniparc: UPI000159732C
+      - uniprot: A7Z293
       - uniref100: A7Z293
       - uniref50: A0A411A3C1
       - uniref90: A0A411A3C1
@@ -177208,6 +177363,7 @@
       - refseq: WP_007609846.1
       - sbo: SBO:0000243
       - uniparc: UPI000159725D
+      - uniprot: A7Z243
       - uniref100: A0AAP3YI84
       - uniref50: Q87KE1
       - uniref90: A0AAP3YI84
@@ -177224,6 +177380,7 @@
       - refseq: WP_007408891.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597258
+      - uniprot: A7Z238
       - uniref100: A0AAP4DJS7
       - uniref50: O34987
       - uniref90: O34987
@@ -177462,6 +177619,7 @@
       - refseq: WP_007409293.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597277
+      - uniprot: A7Z1Y9
       - uniref100: A7Z1Y9
       - uniref50: O07002
       - uniref90: O07002
@@ -177924,6 +178082,7 @@
       - refseq: WP_003156200.1
       - sbo: SBO:0000243
       - uniparc: UPI00015971D5
+      - uniprot: A0A9P1NG82
       - uniref100: I2C1K8
       - uniref50: P96611
       - uniref90: P96611
@@ -177967,6 +178126,7 @@
       - refseq: WP_012116859.1
       - sbo: SBO:0000243
       - uniparc: UPI00015971CC
+      - uniprot: A0AAI8HRJ9
       - uniref100: A0A9Q3LJP2
       - uniref50: P96603
       - uniref90: P96603
@@ -178137,6 +178297,7 @@
       - refseq: WP_012116817.1
       - sbo: SBO:0000243
       - uniparc: UPI000159720D
+      - uniprot: A0AAI8N1U5
       - uniref100: A0A9Q3QIJ4
       - uniref50: C0H3V2
       - uniref90: A0A9P1JE08
@@ -178175,6 +178336,7 @@
       - refseq: WP_003156317.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597206
+      - uniprot: A7Z1E0
       - uniref100: A0A9Q3LIW4
       - uniref50: P40420
       - uniref90: I2C1D8
@@ -178272,6 +178434,7 @@
       - refseq: WP_007410261.1
       - sbo: SBO:0000243
       - uniparc: UPI00015971F3
+      - uniprot: A0AAI8N1U9
       - uniref100: A0AAP4DJA5
       - uniref50: B9JPB2
       - uniref90: A0A9P2XSQ3
@@ -178312,6 +178475,7 @@
       - refseq: WP_012116786.1
       - sbo: SBO:0000243
       - uniparc: UPI00015971EA
+      - uniprot: A7Z1A7
       - uniref100: A0AAP3YGR9
       - uniref50: P94408
       - uniref90: A0A9P1NG53
@@ -178333,6 +178497,7 @@
       - refseq: WP_007408029.1
       - sbo: SBO:0000243
       - uniparc: UPI0002531C3D
+      - uniprot: A7Z0T2
       - uniref100: A7Z0T2
       - uniref50: A0A3N6F8M2
       - uniref90: I2C0S5
@@ -178606,6 +178771,7 @@
       - refseq: WP_007408993.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597195
+      - uniprot: A7Z0Y3
       - uniref100: A7Z0Y3
       - uniref50: A0A9P1JEF8
       - uniref90: A0A9P1JEF8
@@ -178628,6 +178794,7 @@
       - refseq: WP_003156725.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597196
+      - uniprot: A7Z0Y4
       - uniref100: A0A9Q3LK03
       - uniref50: P37948
       - uniref90: P37948
@@ -178754,6 +178921,7 @@
       - refseq: WP_007409011.1
       - sbo: SBO:0000243
       - uniparc: UPI00015971A9
+      - uniprot: A7Z103
       - uniref100: A7Z103
       - uniref50: O31465
       - uniref90: I2C0Z8
@@ -178901,6 +179069,7 @@
       - refseq: WP_003156639.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597157
+      - uniprot: A0AAI8N1V6
       - uniref100: A0A9Q3LKS5
       - uniref50: P46921
       - uniref90: P46921
@@ -179020,6 +179189,7 @@
       - refseq: WP_087920787.1
       - sbo: SBO:0000243
       - uniparc: UPI00052A8DAF
+      - uniprot: A7Z167
       - uniref100: A7Z167
       - uniref50: P94390
       - uniref90: I2C161
@@ -179092,6 +179262,7 @@
       - refseq: WP_007409365.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597142
+      - uniprot: A7Z173
       - uniref100: A0AAP3YGI4
       - uniref50: P42436
       - uniref90: P42436
@@ -179282,6 +179453,7 @@
       - refseq: WP_003156375.1
       - sbo: SBO:0000243
       - uniparc: UPI000241607D
+      - uniprot: A7Z1A0
       - uniref100: A7Z1A0
       - uniref50: P42200
       - uniref90: P42200
@@ -179357,6 +179529,7 @@
       - refseq: WP_007409599.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597561
+      - uniprot: A7Z403
       - uniref100: A0AAP3YE47
       - uniref50: P20166
       - uniref90: P20166
@@ -179374,6 +179547,7 @@
       - refseq: WP_003154654.1
       - sbo: SBO:0000243
       - uniparc: UPI00000602FC
+      - uniprot: A0ABM5LVP2
       - uniref100: P08877
       - uniref50: P08877
       - uniref90: P08877
@@ -179452,6 +179626,7 @@
       - refseq: WP_003154618.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597573
+      - uniprot: A7Z422
       - uniref100: A7Z422
       - uniref50: O34717
       - uniref90: O34717
@@ -179466,6 +179641,7 @@
       - refseq: WP_012117440.1
       - sbo: SBO:0000243
       - uniparc: UPI000159757A
+      - uniprot: A7Z429
       - uniref100: A7Z429
       - uniref50: A0A9P1JGN6
       - uniref90: A0A9P1JGN6
@@ -179542,6 +179718,7 @@
       - refseq: WP_007409637.1
       - sbo: SBO:0000243
       - uniparc: UPI000159758C
+      - uniprot: A7Z447
       - uniref100: A0AAP3YF34
       - uniref50: O31711
       - uniref90: I2C4F8
@@ -179557,6 +179734,7 @@
       - refseq: WP_003154572.1
       - sbo: SBO:0000243
       - uniparc: UPI000159758F
+      - uniprot: A7Z450
       - uniref100: A0A9Q3LGY4
       - uniref50: O31714
       - uniref90: I2C4G1
@@ -179591,6 +179769,7 @@
       - refseq: WP_007409642.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597592
+      - uniprot: A7Z454
       - uniref100: A7Z454
       - uniref50: O31716
       - uniref90: O31716
@@ -179608,6 +179787,7 @@
       - refseq: WP_003154554.1
       - sbo: SBO:0000243
       - uniparc: UPI000159759A
+      - uniprot: A0A9P1NH54
       - uniref100: A0A1Y0X7E4
       - uniref50: P39760
       - uniref90: P39760
@@ -179681,6 +179861,7 @@
       - refseq: WP_007611171.1
       - sbo: SBO:0000243
       - uniparc: UPI0000D57A04
+      - uniprot: A7Z479
       - uniref100: Q1RS58
       - uniref50: P21881
       - uniref90: Q1RS58
@@ -179699,6 +179880,7 @@
       - refseq: WP_003154528.1
       - sbo: SBO:0000243
       - uniparc: UPI00015975FB
+      - uniprot: A0AAI8N0V1
       - uniref100: A0A9Q3LGW3
       - uniref50: P21882
       - uniref90: P21882
@@ -179731,6 +179913,7 @@
       - refseq: WP_007409663.1
       - sbo: SBO:0000243
       - uniparc: UPI00015975FD
+      - uniprot: A0AAI8N0T8
       - uniref100: A0AAP3YEX8
       - uniref50: P21880
       - uniref90: P21880
@@ -180024,6 +180207,7 @@
       - refseq: WP_012117400.1
       - sbo: SBO:0000243
       - uniparc: UPI00015974B3
+      - uniprot: A7Z3U9
       - uniref100: A7Z3U9
       - uniref50: O34442
       - uniref90: A7Z3U9
@@ -180152,6 +180336,7 @@
       - refseq: WP_007407235.1
       - sbo: SBO:0000243
       - uniparc: UPI000159749E
+      - uniprot: A7Z3S8
       - uniref100: A0AAP3YFA0
       - uniref50: Q65KV0
       - uniref90: A0A9P1NHL8
@@ -180290,6 +180475,7 @@
       - refseq: WP_007407248.1
       - sbo: SBO:0000243
       - uniparc: UPI00015974EA
+      - uniprot: A7Z3R4
       - uniref100: A0AAP3YE78
       - uniref50: P26902
       - uniref90: I2C412
@@ -180303,6 +180489,7 @@
       - refseq: WP_007610842.1
       - sbo: SBO:0000243
       - uniparc: UPI00015974E4
+      - uniprot: A7Z3Q8
       - uniref100: I2C403
       - uniref50: O34739
       - uniref90: I2C403
@@ -180375,6 +180562,7 @@
       - refseq: WP_007407297.1
       - sbo: SBO:0000243
       - uniparc: UPI00015974C5
+      - uniprot: A7Z3M7
       - uniref100: A0AAP3YFE7
       - uniref50: Q9JMQ1
       - uniref90: I2C3W8
@@ -180494,6 +180682,7 @@
       - refseq: WP_007407323.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597482
+      - uniprot: A0AAI8HQ36
       - uniref100: A0A9Q3QHG8
       - uniref50: A0A366SFF7
       - uniref90: A0A9P1JG44
@@ -180835,6 +181024,7 @@
       - refseq: WP_007410132.1
       - sbo: SBO:0000243
       - uniparc: UPI000023BFB7
+      - uniprot: A7Z5B2
       - uniref100: Q70JZ1
       - uniref50: Q8KZM7
       - uniref90: Q65MK9
@@ -180940,6 +181130,7 @@
       - refseq: WP_007410125.1
       - sbo: SBO:0000243
       - uniparc: UPI00015976AF
+      - uniprot: A7Z5B9
       - uniref100: A0A9Q3LD94
       - uniref50: O31823
       - uniref90: A0A150F9Y9
@@ -181218,6 +181409,7 @@
       - refseq: WP_003152233.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597930
+      - uniprot: A7Z802
       - uniref100: I2C9B4
       - uniref50: O34872
       - uniref90: I2C9B4
@@ -181236,6 +181428,7 @@
       - refseq: WP_003152237.1
       - sbo: SBO:0000243
       - uniparc: UPI000159792E
+      - uniprot: A0AAI8HLQ5
       - uniref100: A7Z800
       - uniref50: O34667
       - uniref90: A7Z800
@@ -181268,6 +181461,7 @@
       - refseq: WP_003152244.1
       - sbo: SBO:0000243
       - uniparc: UPI000159792A
+      - uniprot: A7Z7Z6
       - uniref100: I2C9A7
       - uniref50: O35013
       - uniref90: I2C9A7
@@ -181348,6 +181542,7 @@
       - refseq: WP_003152253.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597923
+      - uniprot: A0A9P1JJ41
       - uniref100: A7Z7Y9
       - uniref50: P54419
       - uniref90: P54419
@@ -181367,6 +181562,7 @@
       - refseq: WP_003152255.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597922
+      - uniprot: A7Z7Y8
       - uniref100: A0A9Q3LG49
       - uniref50: P54420
       - uniref90: P54420
@@ -181393,6 +181589,7 @@
       - refseq: WP_003152261.1
       - sbo: SBO:0000243
       - uniparc: UPI000159791F
+      - uniprot: A7Z7Y5
       - uniref100: A0A9Q3LDK7
       - uniref90: A0A9P1NJ07
   - !!omap
@@ -181454,6 +181651,7 @@
       - refseq: WP_007408816.1
       - sbo: SBO:0000243
       - uniparc: UPI0002531242
+      - uniprot: A7Z7W7
       - uniref100: A0AAP3YDI1
       - uniref50: O34392
       - uniref90: A0A9P1JJ55
@@ -181601,6 +181799,7 @@
       - refseq: WP_007615256.1
       - sbo: SBO:0000243
       - uniparc: UPI00015970AC
+      - uniprot: A7Z0R7
       - uniref100: A7Z0R7
       - uniref50: A2RI01
       - uniref90: I2C0R2
@@ -181644,6 +181843,7 @@
       - refseq: WP_007410407.1
       - sbo: SBO:0000243
       - uniparc: UPI00015970A7
+      - uniprot: A7Z0Q9
       - uniref100: A7Z0Q9
       - uniref50: P16304
       - uniref90: P16304
@@ -181663,6 +181863,7 @@
       - refseq: WP_007410400.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597120
+      - uniprot: A7Z0N5
       - uniref100: A7Z0N5
       - uniref50: P33166
       - uniref90: A7Z0N5
@@ -181683,6 +181884,7 @@
       - refseq: WP_007410399.1
       - sbo: SBO:0000243
       - uniparc: UPI000159711F
+      - uniprot: A0A9P1JCY2
       - uniref100: A7Z0N4
       - uniref50: P80868
       - uniref90: P80868
@@ -181745,6 +181947,7 @@
       - refseq: WP_003156407.1
       - sbo: SBO:0000243
       - uniparc: UPI000159710E
+      - uniprot: A7Z0L3
       - uniref100: A7Z0L3
       - uniref50: Q06756
       - uniref90: Q06756
@@ -181779,6 +181982,7 @@
       - refseq: WP_007410388.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597109
+      - uniprot: A7Z0K8
       - uniref100: A7Z0K8
       - uniref50: Q2G0P5
       - uniref90: P37571
@@ -181812,6 +182016,7 @@
       - refseq: WP_007615155.1
       - sbo: SBO:0000243
       - uniparc: UPI00015970D3
+      - uniprot: A7Z0F1
       - uniref100: A7Z0F1
       - uniref50: P37537
       - uniref90: A7Z0F1
@@ -181831,6 +182036,7 @@
       - refseq: WP_007409927.1
       - sbo: SBO:0000243
       - uniparc: UPI00015970E4
+      - uniprot: A7Z0G9
       - uniref100: A7Z0G9
       - uniref50: P37550
       - uniref90: A7Z0G9
@@ -181850,6 +182056,7 @@
       - refseq: WP_004264666.1
       - sbo: SBO:0000243
       - uniparc: UPI00015970E5
+      - uniprot: A0AAI8HRW2
       - uniref100: A7Z0H0
       - uniref50: P37551
       - uniref90: P37551
@@ -181931,6 +182138,7 @@
       - refseq: WP_004264611.1
       - sbo: SBO:0000243
       - uniparc: UPI00015970F8
+      - uniprot: A0AAI8N1Z1
       - uniref100: A0AAP4DK72
       - uniref50: P37472
       - uniref90: A0AAP4DK72
@@ -182279,6 +182487,7 @@
       - refseq: WP_007615141.1
       - sbo: SBO:0000243
       - uniparc: UPI00015970C9
+      - uniprot: A7Z0E1
       - uniref100: A7Z0E1
       - uniref50: Q99W51
       - uniref90: A7Z0E1
@@ -182347,6 +182556,7 @@
       - refseq: WP_011996156.1
       - sbo: SBO:0000243
       - uniparc: UPI0001597098
+      - uniprot: A7Z0D2
       - uniref100: A7Z0D2
       - uniref50: A0A5C0WHL3
       - uniref90: A0A9P1NF64

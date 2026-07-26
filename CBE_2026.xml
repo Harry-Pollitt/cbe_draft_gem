@@ -168357,6 +168357,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/A0A3N6F8M2"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0002531C3D"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_002040"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z0T2"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -168539,6 +168540,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/O07002"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597277"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_006230"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z1Y9"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -168668,6 +168670,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00000603BF"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_015750"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K02078"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0AAP3CLX5"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -169051,6 +169054,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597858"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_022670"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01961"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z6K2"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -169182,6 +169186,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00000602FC"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_013670"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K02784"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0ABM5LVP2"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -169202,6 +169207,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597974"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_020380"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K02777"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z5X4"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -169222,6 +169228,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597DCD"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_031960"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K11184"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0AAI8HKV4"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -169351,6 +169358,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P37252"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0002415FF9"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01653"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0A150F488"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -169401,6 +169409,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P37877"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI000159773F"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00925"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z7M2"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -169424,6 +169433,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/Q04777"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597BEF"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01575"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z9H0"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -169562,6 +169572,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/A0A653A752"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI000159775A"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_029900"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z8J5"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -169724,6 +169735,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015972F7"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_008110"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K25307"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z2G9"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -169821,6 +169833,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/O32224"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI000159789B"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01118"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z8S7"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -169847,6 +169860,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref90/O35022"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/O35022"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00024168A5"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0AAI8HNR3"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -170146,6 +170160,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0002531242"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_027350"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K16920"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z7W7"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -170206,6 +170221,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI000159758C"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_014100"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K24949"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z447"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -170425,6 +170441,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015970A7"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_001620"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00939"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z0Q9"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -170449,6 +170466,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00018E18CF"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_026050"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01611"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0A9P1JIX4"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -170636,6 +170654,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI000159792A"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_027640"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K03574"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z7Z6"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -170661,6 +170680,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P37551"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015970E5"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K09685"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0AAI8HRW2"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -170690,6 +170710,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597B19"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_024720"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00759"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z756"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -170838,6 +170859,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597D26"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_034610"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01480"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z9W4"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -171117,6 +171139,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI000159725D"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_006840"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01588"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z243"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -171236,6 +171259,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P21880"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015975FD"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00382"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0AAI8N0T8"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -171258,6 +171282,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/O34726"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597352"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K03319"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0AAI8HQQ8"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -171396,6 +171421,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597418"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_011390"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K02033"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z3C7"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -171483,6 +171509,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/Q08352"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597AA9"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00259"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z8A3"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -171503,6 +171530,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015971EA"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_003840"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K03305"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z1A7"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -171696,6 +171724,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/O05255"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597A51"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K23536"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z872"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -171874,6 +171903,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P46336"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597C42"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K06607"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7ZAI3"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -171975,6 +172005,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/E6LEU2"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597347"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_007610"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z2C0"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -172013,6 +172044,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref90/A0A150F9Y9"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/O31823"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015976AF"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z5B9"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -172170,6 +172202,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/O34717"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597573"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_013850"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z422"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -172302,6 +172335,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/O34483"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597E08"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K06023"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z973"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -172511,6 +172545,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P54542"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597777"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01258"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z6F6"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -172536,6 +172571,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597AFA"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_029100"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01255"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z8B5"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -172710,6 +172746,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015975EC"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_015400"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00390"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z4H7"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -172772,6 +172809,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI000159793E"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_030570"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K23257"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0A9P1JJU0"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -172853,6 +172891,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P94529"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597831"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K17235"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z7G2"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -172893,6 +172932,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597D10"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_031320"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K02100"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z8Y7"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -173005,6 +173045,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P39138"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0000F264BE"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01476"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7ZAM6"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -173050,6 +173091,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/O34858"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI000159791B"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01755"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z7L9"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -173077,6 +173119,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/A0RJM4"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI000159791C"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01940"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z7M0"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -173121,6 +173164,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015977BF"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_022270"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K17077"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z6G2"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -173241,6 +173285,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P39137"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597DA7"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K02205"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z9Z9"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -173384,6 +173429,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597922"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_027560"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01953"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z7Y8"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -173432,6 +173478,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P52999"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597986"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01579"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z5Z2"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -173532,6 +173579,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597682"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_016600"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00928"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z4U7"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -173928,6 +173976,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015970AC"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_001700"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K16786"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z0R7"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -173948,6 +173997,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/A0A9P1NJ67"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597AF8"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K03523"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z8B3"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -174005,6 +174055,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/Q8KZM7"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI000023BFB7"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01012"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z5B2"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -174177,6 +174228,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00005C50EC"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_009090"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K03781"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z2P8"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -174297,6 +174349,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015975E6"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_015340"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01956"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z4H1"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -174363,6 +174416,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597408"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_011230"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01956"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z3B1"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -174530,6 +174584,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P37550"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015970E4"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00919"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z0G9"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -174625,6 +174680,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597E70"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_035790"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K02760"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0AAI8HK72"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -174876,6 +174932,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597843"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_031090"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K05846"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z8W4"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -174971,6 +175028,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P39912"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015977E5"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K13853"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z7R9"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -174992,6 +175050,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P21204"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00019511FA"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K06209"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z780"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -175039,6 +175098,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015972D9"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_007810"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K11639"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z2D9"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -175085,6 +175145,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P94363"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597E98"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K11616"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7ZAA5"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -175129,6 +175190,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015979DA"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_023880"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01493"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0A9P1NI80"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -175171,6 +175233,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/O34512"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI000159734C"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_007660"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z2C5"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -175192,6 +175255,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/O31716"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597592"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_014170"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z454"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -175214,6 +175278,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI000159741E"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_010070"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K02495"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z2Z5"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -175345,6 +175410,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P39120"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015978D3"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01659"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z7K0"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -175406,6 +175472,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0000D579F8"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_016970"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K15313"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z4Y4"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -175436,6 +175503,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P13242"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597CE2"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01937"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z9T4"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -175630,6 +175698,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015971F3"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_003930"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K16962"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0AAI8N1U9"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -175689,6 +175758,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P94364"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597E97"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00425"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7ZAA4"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -175929,6 +175999,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597E12"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_035410"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K02828"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7ZA44"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -175961,6 +176032,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P34957"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597E14"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K02826"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0AAI8N261"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -176014,6 +176086,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/Q8DTG1"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597A82"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00876"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0A9P1JIK0"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -176074,6 +176147,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597BDA"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_036470"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K11535"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7ZAF0"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -176227,6 +176301,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P26902"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015974EA"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K16203"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z3R4"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -176332,6 +176407,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P23630"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597AFF"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01586"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z683"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -176408,6 +176484,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P17620"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597AB9"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K14652"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z675"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -176499,6 +176576,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597C17"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_036700"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K06606"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7ZAH3"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -176524,6 +176602,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015975F6"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_015510"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00942"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z4I8"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -176575,6 +176654,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597B8C"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_020010"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01687"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z5T7"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -176749,6 +176829,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/Q54277"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597B87"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00287"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z5T2"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -176985,6 +177066,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597109"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_001110"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K03696"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z0K8"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -177447,6 +177529,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/Q5WHF4"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597BDB"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01619"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0A9P1JLG2"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -177474,6 +177557,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P37537"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015970D3"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00943"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z0F1"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -177729,6 +177813,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P37869"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597854"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01689"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0A9P1NIX6"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -177994,6 +178079,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P94550"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015977DD"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K03521"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z7E1"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -178115,6 +178201,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P13243"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597CC4"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01624"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0AAI8MYQ5"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -178257,6 +178344,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/Q03224"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597CC1"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K02446"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z9S8"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -178532,6 +178620,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P50743"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597A25"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K03977"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z636"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -178644,6 +178733,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597958"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_023590"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K03595"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z6U3"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -178690,6 +178780,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015975CE"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_015880"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K14540"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z4M5"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -178944,6 +179035,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0000EFD35F"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_035360"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K19285"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0AAI8MYP2"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -178965,6 +179057,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI000159757A"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_013920"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K03839"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z429"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -179008,6 +179101,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597A75"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_024300"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K21993"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z714"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -179030,6 +179124,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/O31714"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI000159758F"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00882"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z450"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -179071,6 +179166,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597719"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_029630"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K10710"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z8G8"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -179195,6 +179291,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P96603"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015971CC"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K11103"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0AAI8HRJ9"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -179255,6 +179352,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015973F4"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_008800"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01845"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z2N8"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -179307,6 +179405,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597EB3"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_032870"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00980"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0A9P1JK90"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -179463,6 +179562,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597772"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_022160"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00036"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z6F1"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -179491,6 +179591,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597A05"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_028430"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01810"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z848"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -179773,6 +179874,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/A0A366SFF7"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597482"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K02786"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0AAI8HQ36"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -179822,6 +179924,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597D0E"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_031300"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00134"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0A9P1JKA3"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -180157,6 +180260,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P40420"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597206"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K05340"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z1E0"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -180185,6 +180289,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597561"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_013660"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K20118"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z403"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -180234,6 +180339,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P12425"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015976CB"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01915"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z513"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -180318,6 +180424,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI000241607D"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_003770"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K10009"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z1A0"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -180466,6 +180573,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597A61"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_021110"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00260"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z646"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -180511,6 +180619,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015971A9"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_002800"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01425"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z103"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -180829,6 +180938,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P37948"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597196"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K02445"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z0Y4"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -180849,6 +180959,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/E3EBU4"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0000EFD365"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K02443"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z2U1"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -180914,6 +181025,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597424"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_010130"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01990"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z301"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -180968,6 +181080,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P46921"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597157"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K02001"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0AAI8N1V6"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -181028,6 +181141,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI000159771A"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_029640"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K10119"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z8G9"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -181375,6 +181489,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P12011"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597D1B"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K25031"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z8Z8"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -181433,6 +181548,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/A0A9P1JEF8"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597195"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01126"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z0Y3"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -181570,6 +181686,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P19465"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597A20"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01495"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0A9P1JHV6"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -181596,6 +181713,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/O54408"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597B18"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01139"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z755"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -181622,6 +181740,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597E45"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_035680"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K07816"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7ZA71"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -181714,6 +181833,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P37472"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015970F8"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00760"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0AAI8N1Z1"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -181782,6 +181902,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/O34987"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597258"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K06901"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z238"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -181887,6 +182008,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/O34872"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597930"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01673"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z802"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -182114,6 +182236,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0002416539"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_030690"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K07213"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0AAI8N227"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -182303,6 +182426,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/O34090"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI000159773C"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01749"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z7A5"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -182852,6 +182976,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/A0A411AB64"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597C58"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_033670"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z9M0"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -183119,6 +183244,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/I2C2X5"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015973AE"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_009490"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z2T7"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -183411,6 +183537,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597782"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_025310"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01704"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z7B5"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -183541,6 +183668,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P94584"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597C39"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K02372"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0A9P1JKV8"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -183567,6 +183695,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015975C1"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_015740"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00059"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z4L1"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -183664,6 +183793,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597412"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_011330"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00648"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z3C1"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -183774,6 +183904,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597421"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_010100"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K07228"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z2Z8"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -183797,6 +183928,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI000159759A"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_014250"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K03499"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0A9P1NH54"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -183887,6 +184019,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597A57"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_028730"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K05570"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z878"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -183954,6 +184087,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597A58"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_028740"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K05571"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z879"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -183974,6 +184108,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00025317BC"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_028690"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K05566"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0AAI8MZ76"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -184191,6 +184326,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597E4A"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_035730"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K14188"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0AAI8MYK8"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -184263,6 +184399,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P39580"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597E49"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K03739"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7ZA75"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -184282,6 +184419,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI000159791F"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_027530"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01048"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z7Y5"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -184367,6 +184505,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/O07021"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001B30563"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K18929"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z901"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -184756,6 +184895,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P45869"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597CBD"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K13936"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z9S3"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -184946,6 +185086,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/Q99W51"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015970C9"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K11991"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z0E1"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -185067,6 +185208,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/A0A5C0WHL3"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597098"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K07258"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z0D2"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -185116,6 +185258,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015978D1"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_026160"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00024"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0A9P1JJD2"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -185208,6 +185351,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597B0E"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_021680"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00027"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z6A3"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -185255,6 +185399,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI000159710E"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_001160"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01770"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z0L3"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -185305,6 +185450,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P54419"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597923"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00789"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0A9P1JJ41"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -185335,6 +185481,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597E5A"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_032410"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K09812"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z995"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -185416,6 +185563,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597752"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_029820"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K02072"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z8I7"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -185456,6 +185604,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597753"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_029830"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K02071"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z8I8"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -185642,6 +185791,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597B39"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_019850"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K07305"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z5S1"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -185666,6 +185816,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597B3A"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_019860"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K07304"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z5S2"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -185726,6 +185877,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/Q9XCV1"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015979C4"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01734"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z5Z9"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -185749,6 +185901,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015974B3"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_013120"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K06213"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z3U9"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -186042,6 +186195,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI000159720D"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_004240"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K02798"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0AAI8N1U5"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -186445,6 +186599,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597855"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_022640"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01491"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z6J9"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -186582,6 +186737,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI000159739D"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_009300"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K03809"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z2R8"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -186729,6 +186885,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597C6D"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_036960"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K24119"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0AAI8MYH3"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -186808,6 +186965,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/Q8Y8D7"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597500"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00858"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z3F0"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -186885,6 +187043,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/O32090"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00025317C6"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00763"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z888"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -187074,6 +187233,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/Q07429"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597C59"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K03320"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z9M1"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -187234,6 +187394,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref90/A0A7S7KRU8"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/O32091"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597A9B"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z889"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -187300,6 +187461,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P46907"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597D1C"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K02575"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z9V0"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -187529,6 +187691,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597997"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_023770"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K04043"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z6W1"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -187554,6 +187717,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597120"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_001380"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K02358"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z0N5"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -187678,6 +187842,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P80868"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI000159711F"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K02355"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0A9P1JCY2"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -187791,6 +187956,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597731"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_025100"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K06287"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z794"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -187981,6 +188147,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P42436"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597142"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K26138"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z173"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -188207,6 +188374,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P38021"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597CA4"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00819"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7ZAM8"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -188444,6 +188612,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/Q03521"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015975A2"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01000"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0AAI8N0S7"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -188467,6 +188636,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P96611"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015971D5"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_004890"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0A9P1NG82"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -188492,6 +188662,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597D6D"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_034850"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00625"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z9Y8"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -188643,6 +188814,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0000D57A04"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_014420"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00161"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z479"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -188688,6 +188860,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015975FB"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_014430"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00162"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0AAI8N0V1"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -188708,6 +188881,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0003A3B880"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_011130"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K21064"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0AAI8N179"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -188728,6 +188902,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015973A2"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_009350"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01990"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z2S3"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -188780,6 +188955,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/O34529"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI000159790E"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00850"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z7K6"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -188962,6 +189138,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P54607"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0000EFD362"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_009500"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z2T8"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -189413,6 +189590,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P37487"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597CFA"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K15986"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0AAI8HJY1"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -189686,6 +189864,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597B79"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_024950"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K04518"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z779"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -190118,6 +190297,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00052A8DAF"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_003440"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00318"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z167"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -190177,6 +190357,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015974F1"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_011460"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K15583"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z3D4"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -190458,6 +190639,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015974E4"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_012710"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K03294"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z3Q8"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -190568,6 +190750,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/A0A411A3C1"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI000159732C"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_007340"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z293"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -190616,6 +190799,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P11998"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597AB8"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00794"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z674"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -190688,6 +190872,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI000159792E"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_027680"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K07173"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0AAI8HLQ5"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -190751,6 +190936,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015974C5"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_012400"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K26609"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z3M7"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -190771,6 +190957,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597A50"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_028660"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K23535"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z871"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -190859,6 +191046,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P50620"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015976C3"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00525"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0AAI8HP62"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -190929,6 +191117,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015976C4"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_017190"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00526"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z506"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -191319,6 +191508,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/A0AAE6Z2V0"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00026BA36F"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_008070"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z2G5"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -191425,6 +191615,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/O34734"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015975ED"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K16331"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z4H8"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -191465,6 +191656,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/Q65KV0"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI000159749E"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K18925"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z3S8"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -191510,6 +191702,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597D27"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_034620"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00797"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z9W5"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -191536,6 +191729,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P54375"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597905"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K04564"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z6R8"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -191691,6 +191885,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015977D4"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_025500"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00240"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z7D2"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -191720,6 +191915,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015977D5"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_025510"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00239"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0AAI8MXM6"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -191743,6 +191939,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015977D6"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_025520"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00241"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0A9P1NIE7"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -191796,6 +191993,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015975D2"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_015920"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01903"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z4M9"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -191942,6 +192140,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P19669"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597CC3"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K00616"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z9T0"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -191994,6 +192193,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/O34753"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597E88"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K02851"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z9C2"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -192157,6 +192357,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015977DA"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_025560"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K03671"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0A9P1JJ77"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -192199,6 +192400,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P80864"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597741"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K11065"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0AAI8HLQ0"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -192248,6 +192450,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597B83"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_019920"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01754"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z5S8"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -192565,6 +192768,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P27876"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597D0C"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K01803"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0AAI8HL11"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -193076,6 +193280,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597C5C"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_033710"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K19302"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z9M4"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -193105,6 +193310,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P94507"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015979B1"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K06153"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z830"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -193325,6 +193531,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015975F0"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_015440"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K02303"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z4I1"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -193440,6 +193647,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P0DH77"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI00015975E2"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K02825"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A0A9P1NHN3"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -193779,6 +193987,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/A0A0H2VG78"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597BBF"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.genes/bay:RBAM_032960"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z9F0"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -193879,6 +194088,7 @@
                   <rdf:li rdf:resource="https://identifiers.org/uniref50/P32732"/>
                   <rdf:li rdf:resource="https://identifiers.org/uniparc/UPI0001597678"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.orthology/K03177"/>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot/A7Z4T7"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
