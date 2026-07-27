@@ -92519,7 +92519,7 @@
     - name: EX_15dap_e
     - metabolites: !!omap
       - 15dap_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -92556,7 +92556,7 @@
     - name: EX_23dappa_e
     - metabolites: !!omap
       - 23dappa_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -92583,7 +92583,7 @@
     - name: EX_23dhbzs3_e
     - metabolites: !!omap
       - 23dhbzs3_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -92604,7 +92604,7 @@
     - name: EX_25dkglcn_e
     - metabolites: !!omap
       - 25dkglcn_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -92625,7 +92625,7 @@
     - name: EX_2hxmp_e
     - metabolites: !!omap
       - 2hxmp_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -92646,7 +92646,7 @@
     - name: EX_2pglyc_e
     - metabolites: !!omap
       - 2pglyc_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -92683,7 +92683,7 @@
     - name: EX_3amp_e
     - metabolites: !!omap
       - 3amp_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -92706,7 +92706,7 @@
     - name: EX_3cmp_e
     - metabolites: !!omap
       - 3cmp_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -92729,7 +92729,7 @@
     - name: EX_3mb_e
     - metabolites: !!omap
       - 3mb_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -92750,7 +92750,7 @@
     - name: EX_3ump_e
     - metabolites: !!omap
       - 3ump_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -92773,7 +92773,7 @@
     - name: EX_4abut_e
     - metabolites: !!omap
       - 4abut_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -92854,7 +92854,7 @@
     - name: EX_4ahmmp_e
     - metabolites: !!omap
       - 4ahmmp_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -92889,7 +92889,7 @@
     - name: EX_4hbz_e
     - metabolites: !!omap
       - 4hbz_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -92940,7 +92940,7 @@
     - name: EX_4hpro_DC_e
     - metabolites: !!omap
       - 4hpro_DC_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -92961,7 +92961,7 @@
     - name: EX_4hpro_LT_e
     - metabolites: !!omap
       - 4hpro_LT_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -93018,7 +93018,7 @@
     - name: EX_LalaDgluMdapDala_e
     - metabolites: !!omap
       - LalaDgluMdapDala_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -93041,7 +93041,7 @@
     - name: EX_LalaLglu_e
     - metabolites: !!omap
       - LalaLglu_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -93074,7 +93074,7 @@
     - name: EX_Larab_e
     - metabolites: !!omap
       - Larab_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -93091,7 +93091,7 @@
     - name: EX_Lcyst_e
     - metabolites: !!omap
       - Lcyst_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -93130,7 +93130,7 @@
     - name: EX_abt__L_e
     - metabolites: !!omap
       - abt__L_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -93161,7 +93161,7 @@
     - name: EX_ac_e
     - metabolites: !!omap
       - ac_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -93250,7 +93250,7 @@
     - name: EX_acald_e
     - metabolites: !!omap
       - acald_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -93329,7 +93329,7 @@
     - name: EX_acgam_e
     - metabolites: !!omap
       - acgam_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -93390,7 +93390,7 @@
     - name: EX_acmana_e
     - metabolites: !!omap
       - acmana_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -93427,7 +93427,7 @@
     - name: EX_acmum_e
     - metabolites: !!omap
       - acmum_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -93448,7 +93448,7 @@
     - name: EX_acnam_e
     - metabolites: !!omap
       - acnam_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -93495,7 +93495,7 @@
     - name: EX_actn__R_e
     - metabolites: !!omap
       - actn__R_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -93534,7 +93534,7 @@
     - name: EX_adn_e
     - metabolites: !!omap
       - adn_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -93607,7 +93607,7 @@
     - name: EX_akg_e
     - metabolites: !!omap
       - akg_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -93688,7 +93688,7 @@
     - name: EX_ala_B_e
     - metabolites: !!omap
       - ala_B_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -93739,7 +93739,7 @@
     - name: EX_ala_L_asp__L_e
     - metabolites: !!omap
       - ala_L_asp__L_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -93756,7 +93756,7 @@
     - name: EX_ala_L_glu__L_e
     - metabolites: !!omap
       - ala_L_glu__L_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -93773,7 +93773,7 @@
     - name: EX_ala_L_thr__L_e
     - metabolites: !!omap
       - ala_L_thr__L_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -93783,7 +93783,7 @@
     - name: EX_ala__D_e
     - metabolites: !!omap
       - ala__D_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -93844,7 +93844,7 @@
     - name: EX_ala__L_e
     - metabolites: !!omap
       - ala__L_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -93935,7 +93935,7 @@
     - name: EX_ala_gln_e
     - metabolites: !!omap
       - ala_gln_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -93952,7 +93952,7 @@
     - name: EX_ala_his_e
     - metabolites: !!omap
       - ala_his_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -93969,7 +93969,7 @@
     - name: EX_ala_leu_e
     - metabolites: !!omap
       - ala_leu_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -93986,7 +93986,7 @@
     - name: EX_alaala_e
     - metabolites: !!omap
       - alaala_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -94015,7 +94015,7 @@
     - name: EX_alagly_e
     - metabolites: !!omap
       - alagly_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -94032,7 +94032,7 @@
     - name: EX_anhgm_e
     - metabolites: !!omap
       - anhgm_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -94055,7 +94055,7 @@
     - name: EX_arab__L_e
     - metabolites: !!omap
       - arab__L_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -94080,7 +94080,7 @@
     - name: EX_arbt_e
     - metabolites: !!omap
       - arbt_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -94119,7 +94119,7 @@
     - name: EX_arg__L_e
     - metabolites: !!omap
       - arg__L_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -94192,7 +94192,7 @@
     - name: EX_asn__L_e
     - metabolites: !!omap
       - asn__L_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -94269,7 +94269,7 @@
     - name: EX_asp__L_e
     - metabolites: !!omap
       - asp__L_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -94350,7 +94350,7 @@
     - name: R R  2 3 Butanediol C4H10O2 exchange
     - metabolites: !!omap
       - btd_RR_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -94360,7 +94360,7 @@
     - name: EX_btn_e
     - metabolites: !!omap
       - btn_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -94453,7 +94453,7 @@
     - name: EX_but_e
     - metabolites: !!omap
       - but_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -94504,7 +94504,7 @@
     - name: EX_buts_e
     - metabolites: !!omap
       - buts_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -94521,7 +94521,7 @@
     - name: EX_bz_e
     - metabolites: !!omap
       - bz_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -94596,7 +94596,7 @@
     - name: EX_ca2_e
     - metabolites: !!omap
       - ca2_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: -10.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -94663,7 +94663,7 @@
     - name: EX_cd2_e
     - metabolites: !!omap
       - cd2_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -94716,7 +94716,7 @@
     - name: EX_cellb_e
     - metabolites: !!omap
       - cellb_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -94747,7 +94747,7 @@
     - name: EX_cgly_e
     - metabolites: !!omap
       - cgly_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -94782,7 +94782,7 @@
     - name: EX_chol_e
     - metabolites: !!omap
       - chol_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -94865,7 +94865,7 @@
     - name: EX_chols_e
     - metabolites: !!omap
       - chols_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -94886,7 +94886,7 @@
     - name: EX_cit_e
     - metabolites: !!omap
       - cit_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -94953,7 +94953,7 @@
     - name: EX_cl_e
     - metabolites: !!omap
       - cl_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: -10.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -95024,7 +95024,7 @@
     - name: EX_co2_e
     - metabolites: !!omap
       - co2_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -95149,7 +95149,7 @@
     - name: EX_cobalt2_e
     - metabolites: !!omap
       - cobalt2_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: -10.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -95218,7 +95218,7 @@
     - name: EX_cro4_e
     - metabolites: !!omap
       - cro4_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -95249,7 +95249,7 @@
     - name: EX_csn_e
     - metabolites: !!omap
       - csn_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -95298,7 +95298,7 @@
     - name: EX_cu2_e
     - metabolites: !!omap
       - cu2_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: -10.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -95361,7 +95361,7 @@
     - name: EX_cu_e
     - metabolites: !!omap
       - cu_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -95402,7 +95402,7 @@
     - name: EX_cys__L_e
     - metabolites: !!omap
       - cys__L_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -95491,7 +95491,7 @@
     - name: EX_cytd_e
     - metabolites: !!omap
       - cytd_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -95570,7 +95570,7 @@
     - name: EX_dad_2_e
     - metabolites: !!omap
       - dad_2_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -95621,7 +95621,7 @@
     - name: EX_dcyt_e
     - metabolites: !!omap
       - dcyt_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -95688,7 +95688,7 @@
     - name: EX_dextrin_e
     - metabolites: !!omap
       - dextrin_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -95705,7 +95705,7 @@
     - name: EX_drib_e
     - metabolites: !!omap
       - drib_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -95732,7 +95732,7 @@
     - name: EX_eths_e
     - metabolites: !!omap
       - eths_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -95765,7 +95765,7 @@
     - name: EX_etoh_e
     - metabolites: !!omap
       - etoh_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -95844,7 +95844,7 @@
     - name: EX_fe2_e
     - metabolites: !!omap
       - fe2_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: -10.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -95931,7 +95931,7 @@
     - name: EX_fe3_e
     - metabolites: !!omap
       - fe3_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: -10.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -96000,7 +96000,7 @@
     - name: EX_fe3mcbtt_e
     - metabolites: !!omap
       - fe3mcbtt_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -96017,7 +96017,7 @@
     - name: EX_fe3pyovd_kt_e
     - metabolites: !!omap
       - fe3pyovd_kt_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -96034,7 +96034,7 @@
     - name: EX_fol_e
     - metabolites: !!omap
       - fol_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -96095,7 +96095,7 @@
     - name: EX_for_e
     - metabolites: !!omap
       - for_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -96200,7 +96200,7 @@
     - name: EX_fru_e
     - metabolites: !!omap
       - fru_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -96251,7 +96251,7 @@
     - name: EX_frulys_e
     - metabolites: !!omap
       - frulys_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -96290,7 +96290,7 @@
     - name: EX_fum_e
     - metabolites: !!omap
       - fum_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -96353,7 +96353,7 @@
     - name: EX_g3pc_e
     - metabolites: !!omap
       - g3pc_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -96400,7 +96400,7 @@
     - name: EX_g3pg_e
     - metabolites: !!omap
       - g3pg_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -96423,7 +96423,7 @@
     - name: EX_g3ps_e
     - metabolites: !!omap
       - g3ps_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -96444,7 +96444,7 @@
     - name: EX_gal_bD_e
     - metabolites: !!omap
       - gal_bD_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -96473,7 +96473,7 @@
     - name: EX_gal_e
     - metabolites: !!omap
       - gal_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -96502,7 +96502,7 @@
     - name: EX_galct__D_e
     - metabolites: !!omap
       - galct__D_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -96539,7 +96539,7 @@
     - name: EX_galt_e
     - metabolites: !!omap
       - galt_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -96590,7 +96590,7 @@
     - name: EX_galur_e
     - metabolites: !!omap
       - galur_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -96621,7 +96621,7 @@
     - name: EX_gam_e
     - metabolites: !!omap
       - gam_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -96668,7 +96668,7 @@
     - name: EX_glc__D_e
     - metabolites: !!omap
       - glc__D_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -96769,7 +96769,7 @@
     - name: EX_glc__aD_e
     - metabolites: !!omap
       - glc__aD_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -96779,7 +96779,7 @@
     - name: EX_glcn_e
     - metabolites: !!omap
       - glcn_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -96836,7 +96836,7 @@
     - name: EX_glcr_e
     - metabolites: !!omap
       - glcr_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -96881,7 +96881,7 @@
     - name: EX_glcur_e
     - metabolites: !!omap
       - glcur_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -96926,7 +96926,7 @@
     - name: EX_gln__L_e
     - metabolites: !!omap
       - gln__L_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -97007,7 +97007,7 @@
     - name: EX_glu__L_e
     - metabolites: !!omap
       - glu__L_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -97096,7 +97096,7 @@
     - name: EX_gly_asn__L_e
     - metabolites: !!omap
       - gly_asn__L_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -97113,7 +97113,7 @@
     - name: EX_gly_asp__L_e
     - metabolites: !!omap
       - gly_asp__L_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -97130,7 +97130,7 @@
     - name: EX_gly_cys_e
     - metabolites: !!omap
       - gly_cys_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -97147,7 +97147,7 @@
     - name: EX_gly_e
     - metabolites: !!omap
       - gly_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -97238,7 +97238,7 @@
     - name: EX_gly_gln_e
     - metabolites: !!omap
       - gly_gln_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -97248,7 +97248,7 @@
     - name: EX_gly_glu__L_e
     - metabolites: !!omap
       - gly_glu__L_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -97265,7 +97265,7 @@
     - name: EX_gly_leu_e
     - metabolites: !!omap
       - gly_leu_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -97275,7 +97275,7 @@
     - name: EX_gly_met_e
     - metabolites: !!omap
       - gly_met_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -97292,7 +97292,7 @@
     - name: EX_gly_phe_e
     - metabolites: !!omap
       - gly_phe_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -97309,7 +97309,7 @@
     - name: EX_gly_pro__L_e
     - metabolites: !!omap
       - gly_pro__L_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -97326,7 +97326,7 @@
     - name: EX_gly_tyr_e
     - metabolites: !!omap
       - gly_tyr_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -97343,7 +97343,7 @@
     - name: EX_glyald_e
     - metabolites: !!omap
       - glyald_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -97382,7 +97382,7 @@
     - name: EX_glyb_e
     - metabolites: !!omap
       - glyb_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -97437,7 +97437,7 @@
     - name: EX_glyc3p_e
     - metabolites: !!omap
       - glyc3p_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -97520,7 +97520,7 @@
     - name: EX_glyc__R_e
     - metabolites: !!omap
       - glyc__R_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -97563,7 +97563,7 @@
     - name: EX_glyc_e
     - metabolites: !!omap
       - glyc_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -97650,7 +97650,7 @@
     - name: EX_glyclt_e
     - metabolites: !!omap
       - glyclt_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -97735,7 +97735,7 @@
     - name: EX_glyglygln_e
     - metabolites: !!omap
       - glyglygln_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -97745,7 +97745,7 @@
     - name: EX_gsn_e
     - metabolites: !!omap
       - gsn_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -97814,7 +97814,7 @@
     - name: EX_gthox_e
     - metabolites: !!omap
       - gthox_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -97883,7 +97883,7 @@
     - name: EX_gthrd_e
     - metabolites: !!omap
       - gthrd_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -97970,7 +97970,7 @@
     - name: EX_gua_e
     - metabolites: !!omap
       - gua_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -98043,7 +98043,7 @@
     - name: EX_h2o2_e
     - metabolites: !!omap
       - h2o2_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -98144,7 +98144,7 @@
     - name: EX_h2o_e
     - metabolites: !!omap
       - h2o_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: -10.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -98307,7 +98307,7 @@
     - name: EX_h2s_e
     - metabolites: !!omap
       - h2s_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -98388,7 +98388,7 @@
     - name: EX_h_e
     - metabolites: !!omap
       - h_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: -10.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -98406,7 +98406,7 @@
     - name: EX_hdcea_e
     - metabolites: !!omap
       - hdcea_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -98461,7 +98461,7 @@
     - name: EX_hexs_e
     - metabolites: !!omap
       - hexs_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -98478,7 +98478,7 @@
     - name: EX_hg2_e
     - metabolites: !!omap
       - hg2_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -98529,7 +98529,7 @@
     - name: EX_his__L_e
     - metabolites: !!omap
       - his__L_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -98606,7 +98606,7 @@
     - name: EX_hom__L_e
     - metabolites: !!omap
       - hom__L_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -98651,7 +98651,7 @@
     - name: EX_hqn_e
     - metabolites: !!omap
       - hqn_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -98672,7 +98672,7 @@
     - name: EX_hxan_e
     - metabolites: !!omap
       - hxan_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -98761,7 +98761,7 @@
     - name: EX_icit_e
     - metabolites: !!omap
       - icit_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -98816,7 +98816,7 @@
     - name: EX_ile__L_e
     - metabolites: !!omap
       - ile__L_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -98893,7 +98893,7 @@
     - name: EX_inost_e
     - metabolites: !!omap
       - inost_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -98956,7 +98956,7 @@
     - name: EX_ins_e
     - metabolites: !!omap
       - ins_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -99029,7 +99029,7 @@
     - name: EX_isetac_e
     - metabolites: !!omap
       - isetac_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -99064,7 +99064,7 @@
     - name: EX_istfrnB_e
     - metabolites: !!omap
       - istfrnB_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -99081,7 +99081,7 @@
     - name: EX_k_e
     - metabolites: !!omap
       - k_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: -10.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -99166,7 +99166,7 @@
     - name: EX_lac__L_e
     - metabolites: !!omap
       - lac__L_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -99239,7 +99239,7 @@
     - name: EX_lcts_e
     - metabolites: !!omap
       - lcts_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -99268,7 +99268,7 @@
     - name: EX_leu__L_e
     - metabolites: !!omap
       - leu__L_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -99351,7 +99351,7 @@
     - name: EX_lipoate_e
     - metabolites: !!omap
       - lipoate_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -99398,7 +99398,7 @@
     - name: EX_lys__L_e
     - metabolites: !!omap
       - lys__L_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -99479,7 +99479,7 @@
     - name: EX_lysglugly_e
     - metabolites: !!omap
       - lysglugly_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -99489,7 +99489,7 @@
     - name: EX_mal__D_e
     - metabolites: !!omap
       - mal__D_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -99516,7 +99516,7 @@
     - name: EX_mal__L_e
     - metabolites: !!omap
       - mal__L_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -99601,7 +99601,7 @@
     - name: EX_malt_e
     - metabolites: !!omap
       - malt_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -99666,7 +99666,7 @@
     - name: EX_malthx_e
     - metabolites: !!omap
       - malthx_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -99699,7 +99699,7 @@
     - name: EX_malttr_e
     - metabolites: !!omap
       - malttr_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -99746,7 +99746,7 @@
     - name: EX_maltttr_e
     - metabolites: !!omap
       - maltttr_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -99791,7 +99791,7 @@
     - name: EX_man_e
     - metabolites: !!omap
       - man_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -99874,7 +99874,7 @@
     - name: EX_mcbtt_e
     - metabolites: !!omap
       - mcbtt_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -99891,7 +99891,7 @@
     - name: EX_melib_e
     - metabolites: !!omap
       - melib_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -99922,7 +99922,7 @@
     - name: EX_met_L_ala__L_e
     - metabolites: !!omap
       - met_L_ala__L_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -99939,7 +99939,7 @@
     - name: EX_met__D_e
     - metabolites: !!omap
       - met__D_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -99978,7 +99978,7 @@
     - name: EX_met__L_e
     - metabolites: !!omap
       - met__L_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -100057,7 +100057,7 @@
     - name: EX_metox__R_e
     - metabolites: !!omap
       - metox__R_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -100074,7 +100074,7 @@
     - name: L-Methionine Sulfoxide exchange
     - metabolites: !!omap
       - metsox_S__L_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -100084,7 +100084,7 @@
     - name: EX_mg2_e
     - metabolites: !!omap
       - mg2_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: -10.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -100163,7 +100163,7 @@
     - name: EX_mmet_e
     - metabolites: !!omap
       - mmet_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -100184,7 +100184,7 @@
     - name: EX_mn2_e
     - metabolites: !!omap
       - mn2_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: -10.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -100243,7 +100243,7 @@
     - name: EX_mnl_e
     - metabolites: !!omap
       - mnl_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -100288,7 +100288,7 @@
     - name: EX_mobd_e
     - metabolites: !!omap
       - mobd_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: -10.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -100325,7 +100325,7 @@
     - name: EX_mso3_e
     - metabolites: !!omap
       - mso3_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -100354,7 +100354,7 @@
     - name: EX_mththf_e
     - metabolites: !!omap
       - mththf_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -100397,7 +100397,7 @@
     - name: EX_na1_e
     - metabolites: !!omap
       - na1_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: -10.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -100502,7 +100502,7 @@
     - name: EX_nh4_e
     - metabolites: !!omap
       - nh4_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: -10.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -100633,7 +100633,7 @@
     - name: EX_ni2_e
     - metabolites: !!omap
       - ni2_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: -10.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -100694,7 +100694,7 @@
     - name: EX_no2_e
     - metabolites: !!omap
       - no2_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -100771,7 +100771,7 @@
     - name: EX_no3_e
     - metabolites: !!omap
       - no3_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -100830,7 +100830,7 @@
     - name: EX_o2_e
     - metabolites: !!omap
       - o2_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: -20.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -100959,7 +100959,7 @@
     - name: EX_orn_e
     - metabolites: !!omap
       - orn_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -101042,7 +101042,7 @@
     - name: EX_pdima_e
     - metabolites: !!omap
       - pdima_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -101065,7 +101065,7 @@
     - name: EX_pea_e
     - metabolites: !!omap
       - pea_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -101090,7 +101090,7 @@
     - name: EX_phe__L_e
     - metabolites: !!omap
       - phe__L_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -101179,7 +101179,7 @@
     - name: EX_pheme_e
     - metabolites: !!omap
       - pheme_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -101222,7 +101222,7 @@
     - name: EX_pi_e
     - metabolites: !!omap
       - pi_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: -10.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -101341,7 +101341,7 @@
     - name: EX_pime_e
     - metabolites: !!omap
       - pime_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -101378,7 +101378,7 @@
     - name: EX_ppa_e
     - metabolites: !!omap
       - ppa_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -101443,7 +101443,7 @@
     - name: EX_pro__L_e
     - metabolites: !!omap
       - pro__L_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -101534,7 +101534,7 @@
     - name: EX_progly_e
     - metabolites: !!omap
       - progly_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -101565,7 +101565,7 @@
     - name: EX_prohisglu_e
     - metabolites: !!omap
       - prohisglu_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -101575,7 +101575,7 @@
     - name: EX_ptrc_e
     - metabolites: !!omap
       - ptrc_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -101646,7 +101646,7 @@
     - name: EX_pyovd_kt_e
     - metabolites: !!omap
       - pyovd_kt_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -101663,7 +101663,7 @@
     - name: EX_pyr_e
     - metabolites: !!omap
       - pyr_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -101726,7 +101726,7 @@
     - name: EX_raffin_e
     - metabolites: !!omap
       - raffin_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -101759,7 +101759,7 @@
     - name: EX_rib__D_e
     - metabolites: !!omap
       - rib__D_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -101802,7 +101802,7 @@
     - name: EX_ribflv_e
     - metabolites: !!omap
       - ribflv_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -101871,7 +101871,7 @@
     - name: EX_rmn_e
     - metabolites: !!omap
       - rmn_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -101896,7 +101896,7 @@
     - name: EX_s_e
     - metabolites: !!omap
       - s_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -101919,7 +101919,7 @@
     - name: EX_salcn_e
     - metabolites: !!omap
       - salcn_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -101950,7 +101950,7 @@
     - name: EX_sbt__D_e
     - metabolites: !!omap
       - sbt__D_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -102015,7 +102015,7 @@
     - name: EX_ser__D_e
     - metabolites: !!omap
       - ser__D_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -102070,7 +102070,7 @@
     - name: EX_ser__L_e
     - metabolites: !!omap
       - ser__L_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -102169,7 +102169,7 @@
     - name: EX_serglugly_e
     - metabolites: !!omap
       - serglugly_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -102179,7 +102179,7 @@
     - name: EX_so3_e
     - metabolites: !!omap
       - so3_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -102228,7 +102228,7 @@
     - name: EX_so4_e
     - metabolites: !!omap
       - so4_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: -10.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -102307,7 +102307,7 @@
     - name: EX_spmd_e
     - metabolites: !!omap
       - spmd_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -102376,7 +102376,7 @@
     - name: EX_starch_e
     - metabolites: !!omap
       - starch_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -102393,7 +102393,7 @@
     - name: EX_stfrnB_e
     - metabolites: !!omap
       - stfrnB_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -102414,7 +102414,7 @@
     - name: EX_succ_e
     - metabolites: !!omap
       - succ_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -102491,7 +102491,7 @@
     - name: EX_sucr_e
     - metabolites: !!omap
       - sucr_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: -6.5641
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -102534,7 +102534,7 @@
     - name: EX_sula_e
     - metabolites: !!omap
       - sula_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -102567,7 +102567,7 @@
     - name: EX_tartr__L_e
     - metabolites: !!omap
       - tartr__L_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -102598,7 +102598,7 @@
     - name: EX_taur_e
     - metabolites: !!omap
       - taur_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -102661,7 +102661,7 @@
     - name: EX_thm_e
     - metabolites: !!omap
       - thm_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -102730,7 +102730,7 @@
     - name: EX_thr__L_e
     - metabolites: !!omap
       - thr__L_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -102801,7 +102801,7 @@
     - name: EX_thym_e
     - metabolites: !!omap
       - thym_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -102852,7 +102852,7 @@
     - name: EX_thymd_e
     - metabolites: !!omap
       - thymd_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -102937,7 +102937,7 @@
     - name: EX_tre_e
     - metabolites: !!omap
       - tre_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -102992,7 +102992,7 @@
     - name: EX_trp__L_e
     - metabolites: !!omap
       - trp__L_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -103067,7 +103067,7 @@
     - name: EX_tsul_e
     - metabolites: !!omap
       - tsul_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -103120,7 +103120,7 @@
     - name: EX_ttdcea_e
     - metabolites: !!omap
       - ttdcea_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -103159,7 +103159,7 @@
     - name: EX_tyr__L_e
     - metabolites: !!omap
       - tyr__L_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -103242,7 +103242,7 @@
     - name: EX_ura_e
     - metabolites: !!omap
       - ura_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -103295,7 +103295,7 @@
     - name: EX_urate_e
     - metabolites: !!omap
       - urate_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -103344,7 +103344,7 @@
     - name: EX_uri_e
     - metabolites: !!omap
       - uri_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -103423,7 +103423,7 @@
     - name: EX_val__L_e
     - metabolites: !!omap
       - val__L_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -103504,7 +103504,7 @@
     - name: EX_xan_e
     - metabolites: !!omap
       - xan_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -103575,7 +103575,7 @@
     - name: EX_xtsn_e
     - metabolites: !!omap
       - xtsn_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -103618,7 +103618,7 @@
     - name: EX_xyl__D_e
     - metabolites: !!omap
       - xyl__D_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
@@ -103677,7 +103677,7 @@
     - name: EX_zn2_e
     - metabolites: !!omap
       - zn2_e: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: -10.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - annotation: !!omap
