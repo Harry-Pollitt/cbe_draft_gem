@@ -25,7 +25,6 @@
       <compartment id="C_c" name="cytosol" constant="true"/>
       <compartment id="C_p" name="periplasm" constant="true"/>
       <compartment id="C_e" name="extracellular space" constant="true"/>
-      <compartment id="c" constant="true"/>
     </listOfCompartments>
     <listOfSpecies>
       <species metaid="meta_M_10fthf_c" sboTerm="SBO:0000247" id="M_10fthf_c" name="10-Formyltetrahydrofolate" compartment="C_c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-2" fbc:chemicalFormula="C20H21N7O7">
@@ -61937,7 +61936,7 @@
         </annotation>
       </species>
       <species id="M_metsox_S__L_e" name="L-Methionine Sulfoxide" compartment="C_e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H11NO3S"/>
-      <species id="M_glc__bD_c" name="D-Glucose" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H12O6"/>
+      <species id="M_glc__bD_c" name="D-Glucose" compartment="C_c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H12O6"/>
       <species id="M_btd_RR_e" name=" R R  2 3 Butanediol C4H10O2" compartment="C_e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C4H10O2"/>
     </listOfSpecies>
     <listOfParameters>
