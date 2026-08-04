@@ -17064,6 +17064,8 @@
     - compartment: C_e
     - charge: 0
     - formula: C4H10O2
+    - annotation: !!omap
+      - sbo: SBO:0000247
   - !!omap
     - id: btn_c
     - name: Biotin
@@ -30722,6 +30724,8 @@
     - compartment: C_c
     - charge: 0
     - formula: C6H12O6
+    - annotation: !!omap
+      - sbo: SBO:0000247
   - !!omap
     - id: glcn_c
     - name: D-Gluconate
@@ -43776,6 +43780,8 @@
     - compartment: C_e
     - charge: 0
     - formula: C5H11NO3S
+    - annotation: !!omap
+      - sbo: SBO:0000247
   - !!omap
     - id: mg2_c
     - name: Magnesium
@@ -79428,7 +79434,7 @@
         - '13068'
       - sabiork.reaction: '75'
       - sabiorkr: '75'
-      - sbo: SBO:0000630
+      - sbo: SBO:0000176
       - seed.reaction:
         - rxn38233
         - rxn27616
@@ -80254,6 +80260,8 @@
     - lower_bound: -1000.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
+    - annotation: !!omap
+      - sbo: SBO:0000185
   - !!omap
     - id: BTNTe
     - name: Release of biotin across the basolatral membrane
@@ -107188,6 +107196,8 @@
     - lower_bound: -1000.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
+    - annotation: !!omap
+      - sbo: SBO:0000176
   - !!omap
     - id: FOLD3
     - name: Dihydropteroate synthase
@@ -109312,6 +109322,8 @@
     - lower_bound: -1000.0
     - upper_bound: 1000.0
     - gene_reaction_rule: LKBDOH_04470
+    - annotation: !!omap
+      - sbo: SBO:0000176
   - !!omap
     - id: GALM2
     - name: Aldose 1-epimerase (galactose)
