@@ -181962,6 +181962,7 @@
     - annotation: !!omap
       - kegg.genes: bay:RBAM_018480
       - kegg.orthology: K01785
+      - sbo: SBO:0000243
   - !!omap
     - id: LKBDOH_04476
     - name: G_LKBDOH_04476
