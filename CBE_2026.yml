@@ -155962,6 +155962,17 @@
         - R_SUCD1i
         - SUCD1i
   - !!omap
+    - id: SUCD2
+    - name: Succinate dehydrogenase (menaquinone 8 as acceptor)
+    - metabolites: !!omap
+      - fum_c: 1.0
+      - mql7_c: 1.0
+      - mqn7_c: -1.0
+      - succ_c: -1.0
+    - lower_bound: 0.0
+    - upper_bound: 1000.0
+    - gene_reaction_rule: G_LKBDOH_00169 and G_LKBDOH_00170 and G_LKBDOH_00171
+  - !!omap
     - id: SUCD5_BS
     - name: Succinate dehydrogenase
     - metabolites: !!omap
@@ -163671,6 +163682,15 @@
     - annotation: !!omap
       - sbo: SBO:0000632
 - genes:
+  - !!omap
+    - id: G_LKBDOH_00169
+    - name: G_G_LKBDOH_00169
+  - !!omap
+    - id: G_LKBDOH_00170
+    - name: G_G_LKBDOH_00170
+  - !!omap
+    - id: G_LKBDOH_00171
+    - name: G_G_LKBDOH_00171
   - !!omap
     - id: LKBDOH_00001
     - name: G_LKBDOH_00001

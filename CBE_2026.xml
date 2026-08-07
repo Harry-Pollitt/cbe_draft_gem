@@ -61935,9 +61935,9 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_metsox_S__L_e" sboTerm="SBO:0000247" name="L-Methionine Sulfoxide" compartment="C_e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H11NO3S"/>
-      <species id="M_glc__bD_c" sboTerm="SBO:0000247" name="D-Glucose" compartment="C_c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H12O6"/>
-      <species id="M_btd_RR_e" sboTerm="SBO:0000247" name=" R R  2 3 Butanediol C4H10O2" compartment="C_e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C4H10O2"/>
+      <species metaid="meta_M_metsox_S__L_e" sboTerm="SBO:0000247" id="M_metsox_S__L_e" name="L-Methionine Sulfoxide" compartment="C_e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H11NO3S"/>
+      <species metaid="meta_M_glc__bD_c" sboTerm="SBO:0000247" id="M_glc__bD_c" name="D-Glucose" compartment="C_c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H12O6"/>
+      <species metaid="meta_M_btd_RR_e" sboTerm="SBO:0000247" id="M_btd_RR_e" name=" R R  2 3 Butanediol C4H10O2" compartment="C_e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C4H10O2"/>
     </listOfSpecies>
     <listOfParameters>
       <parameter sboTerm="SBO:0000626" id="cobra_default_lb" value="-1000" constant="true"/>
@@ -167869,7 +167869,7 @@
           <speciesReference species="M_metsox_S__L_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
       </reaction>
-      <reaction id="R_GALM1" sboTerm="SBO:0000176" name="Aldose 1-epimerase (glucose)" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
+      <reaction metaid="meta_R_GALM1" sboTerm="SBO:0000176" id="R_GALM1" name="Aldose 1-epimerase (glucose)" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference species="M_glc__bD_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
@@ -167880,7 +167880,7 @@
           <fbc:geneProductRef fbc:geneProduct="G_LKBDOH_04470"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction id="R_BTDt_RR" sboTerm="SBO:0000185" name="R R  butanediol transport" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
+      <reaction metaid="meta_R_BTDt_RR" sboTerm="SBO:0000185" id="R_BTDt_RR" name="R R  butanediol transport" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference species="M_btd_RR_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
@@ -167893,7 +167893,7 @@
           <speciesReference species="M_btd_RR_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
       </reaction>
-      <reaction id="R_FNOR_1" sboTerm="SBO:0000176" name="Ferredoxin:NADPH oxidoreductase" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
+      <reaction metaid="meta_R_FNOR_1" sboTerm="SBO:0000176" id="R_FNOR_1" name="Ferredoxin:NADPH oxidoreductase" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_nadp_c" stoichiometry="1" constant="true"/>
@@ -167903,6 +167903,23 @@
           <speciesReference species="M_nadph_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_fdxox_c" stoichiometry="2" constant="true"/>
         </listOfProducts>
+      </reaction>
+      <reaction id="R_SUCD2" name="Succinate dehydrogenase (menaquinone 8 as acceptor)" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
+        <listOfReactants>
+          <speciesReference species="M_succ_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_mqn7_c" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_fum_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_mql7_c" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <fbc:geneProductAssociation>
+          <fbc:and>
+            <fbc:geneProductRef fbc:geneProduct="G_G_LKBDOH_00169"/>
+            <fbc:geneProductRef fbc:geneProduct="G_G_LKBDOH_00170"/>
+            <fbc:geneProductRef fbc:geneProduct="G_G_LKBDOH_00171"/>
+          </fbc:and>
+        </fbc:geneProductAssociation>
       </reaction>
     </listOfReactions>
     <fbc:listOfObjectives fbc:activeObjective="obj">
@@ -193819,7 +193836,7 @@
           </rdf:RDF>
         </annotation>
       </fbc:geneProduct>
-      <fbc:geneProduct metaid="meta_G_LKBDOH_04470" sboTerm="SBO:0000243"  fbc:id="G_LKBDOH_04470" fbc:name="G_LKBDOH_04470" fbc:label="G_LKBDOH_04470">
+      <fbc:geneProduct metaid="meta_G_LKBDOH_04470" sboTerm="SBO:0000243" fbc:id="G_LKBDOH_04470" fbc:name="G_LKBDOH_04470" fbc:label="G_LKBDOH_04470">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_G_LKBDOH_04470">
@@ -193833,6 +193850,9 @@
           </rdf:RDF>
         </annotation>
       </fbc:geneProduct>
+      <fbc:geneProduct fbc:id="G_G_LKBDOH_00171" fbc:name="G_G_LKBDOH_00171" fbc:label="G_G_LKBDOH_00171"/>
+      <fbc:geneProduct fbc:id="G_G_LKBDOH_00169" fbc:name="G_G_LKBDOH_00169" fbc:label="G_G_LKBDOH_00169"/>
+      <fbc:geneProduct fbc:id="G_G_LKBDOH_00170" fbc:name="G_G_LKBDOH_00170" fbc:label="G_G_LKBDOH_00170"/>
     </fbc:listOfGeneProducts>
   </model>
 </sbml>
