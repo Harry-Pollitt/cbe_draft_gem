@@ -52683,89 +52683,6 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_q8_c" sboTerm="SBO:0000247" id="M_q8_c" name="Ubiquinone-8" compartment="C_c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C49H74O4">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C49H74O4</p>
-            <p>CHARGE: 0</p>
-          </html>
-        </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_q8_c">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C17569"/>
-                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:61683"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchikey/ICFIZJQGJAJRSU-SGHXUWJISA-N"/>
-                  <rdf:li rdf:resource="https://identifiers.org/lipidmaps/LMPR02010005"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:UBIQUINONE-8"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM232"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1368798"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1368797"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd15560"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metacycm/UBIQUINONE-8"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biggm/M_q8"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biggm/q8"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhmetabolite/q8"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seedm/cpd15560"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seedm/M_cpd15560"/>
-                  <rdf:li rdf:resource="https://identifiers.org/keggc/C17569"/>
-                  <rdf:li rdf:resource="https://identifiers.org/keggc/M_C17569"/>
-                  <rdf:li rdf:resource="https://identifiers.org/lipidmapsm/LMPR02010005"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/q8"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhm/M_q8"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhm/q8"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metacyc.compound/UBIQUINONE-8"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchi/InChI=1S/C49H74O4/c1-36(2)20-13-21-37(3)22-14-23-38(4)24-15-25-39(5)26-16-27-40(6)28-17-29-41(7)30-18-31-42(8)32-19-33-43(9)34-35-45-44(10)46(50)48(52-11)49(53-12)47(45)51/h20,22,24,26,28,30,32,34H,13-19,21,23,25,27,29,31,33,35H2,1-12H3/b37-22+,38-24+,39-26+,40-28+,41-30+,42-32+,43-34+"/>
-                  <rdf:li rdf:resource="https://identifiers.org/hmdb/HMDB0304524"/>
-                  <rdf:li rdf:resource="https://identifiers.org/pubchem.compound/5283546"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </species>
-      <species metaid="meta_M_q8h2_c" sboTerm="SBO:0000247" id="M_q8h2_c" name="Ubiquinol-8" compartment="C_c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C49H76O4">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C49H76O4</p>
-            <p>CHARGE: 0</p>
-          </html>
-        </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_q8h2_c">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:61682"/>
-                  <rdf:li rdf:resource="https://identifiers.org/hmdb/HMDB0001060"/>
-                  <rdf:li rdf:resource="https://identifiers.org/hmdb/HMDB01060"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchikey/LOJUQFSPYHMHEO-SGHXUWJISA-N"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:CPD-9956"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM191"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd15561"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd29608"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seedm/M_cpd29608"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seedm/M_cpd15561"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seedm/cpd29608"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seedm/cpd15561"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metacyc.compound/CPD-9956"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biggm/q8h2"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biggm/M_q8h2"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhmetabolite/q8h2"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhm/q8h2"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhm/M_q8h2"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/q8h2"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchi/InChI=1S/C49H76O4/c1-36(2)20-13-21-37(3)22-14-23-38(4)24-15-25-39(5)26-16-27-40(6)28-17-29-41(7)30-18-31-42(8)32-19-33-43(9)34-35-45-44(10)46(50)48(52-11)49(53-12)47(45)51/h20,22,24,26,28,30,32,34,50-51H,13-19,21,23,25,27,29,31,33,35H2,1-12H3/b37-22+,38-24+,39-26+,40-28+,41-30+,42-32+,43-34+"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metacycm/CPD-9956"/>
-                  <rdf:li rdf:resource="https://identifiers.org/pubchem.compound/25074411"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </species>
       <species metaid="meta_M_quln_c" sboTerm="SBO:0000247" id="M_quln_c" name="Quinolinate" compartment="C_c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-2" fbc:chemicalFormula="C7H3NO4">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
@@ -129271,48 +129188,6 @@
           <speciesReference species="M_lys__L_p" stoichiometry="1" constant="true"/>
         </listOfProducts>
       </reaction>
-      <reaction metaid="meta_R_L_LACD2" sboTerm="SBO:0000176" id="R_L_LACD2" name="L-Lactate dehydrogenase (ubiquinone)" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_L_LACD2">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/1.1.2.3"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR101273"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn08792"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn38847"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biggr/L_LACD2"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biggr/R_L_LACD2"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seedr/rxn08792"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seedr/rxn38847"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/L_LACD2"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/R_L_LACD2"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhreaction/R_L_LACD2"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhreaction/L_LACD2"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhr/L_LACD2"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhr/R_L_LACD2"/>
-                  <rdf:li rdf:resource="https://identifiers.org/brenda/1.1.2.3"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_lac__L_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_q8_c" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_pyr_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_q8h2_c" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:and>
-            <fbc:geneProductRef fbc:geneProduct="G_LKBDOH_02994"/>
-            <fbc:geneProductRef fbc:geneProduct="G_LKBDOH_02995"/>
-            <fbc:geneProductRef fbc:geneProduct="G_LKBDOH_02996"/>
-          </fbc:and>
-        </fbc:geneProductAssociation>
-      </reaction>
       <reaction metaid="meta_R_L_LACD3" sboTerm="SBO:0000176" id="R_L_LACD3" name="L-Lactate dehydrogenase (menaquinone)" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -136270,82 +136145,6 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_NADH5" sboTerm="SBO:0000176" id="R_NADH5" name="NADH dehydrogenase (ubiquinone-8 )" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_NADH5">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/rhea/29107"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rhea/29108"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rhea/29109"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rhea/29110"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR101872"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn37608"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn20249"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn37813"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn37605"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn37606"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn38179"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn37604"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn36919"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn38177"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn36776"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn08975"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rh/29107"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rh/29108"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rh/29109"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rh/29110"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seedr/rxn37608"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seedr/rxn36776"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seedr/rxn37813"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seedr/rxn20249"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seedr/rxn37605"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seedr/rxn37606"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seedr/rxn38179"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seedr/rxn36919"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seedr/rxn38177"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seedr/rxn37604"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seedr/rxn08975"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhr/R_NADH5"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhr/NADH5"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biggr/NADHOR"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biggr/R_NADHOR"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biggr/NADH5"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biggr/R_NADH5"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/NADHOR"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/R_NADHOR"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/NADH5"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/R_NADH5"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhreaction/NADH5"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhreaction/R_NADH5"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/1.6.5.2"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/1.6.5.3"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/1.6.5.9"/>
-                  <rdf:li rdf:resource="https://identifiers.org/brenda/1.6.5.2"/>
-                  <rdf:li rdf:resource="https://identifiers.org/brenda/1.6.5.3"/>
-                  <rdf:li rdf:resource="https://identifiers.org/brenda/1.6.5.9"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_nadh_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_q8_c" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_nad_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_q8h2_c" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:or>
-            <fbc:geneProductRef fbc:geneProduct="G_LKBDOH_01179"/>
-            <fbc:geneProductRef fbc:geneProduct="G_LKBDOH_03074"/>
-          </fbc:or>
-        </fbc:geneProductAssociation>
-      </reaction>
       <reaction metaid="meta_R_NADH9" sboTerm="SBO:0000176" id="R_NADH9" name="NADH dehydrogenase (demethylmenaquinone-8 &amp; 0 protons)" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -137061,59 +136860,6 @@
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_spontaneous"/>
-        </fbc:geneProductAssociation>
-      </reaction>
-      <reaction metaid="meta_R_NADPHQR2" sboTerm="SBO:0000176" id="R_NADPHQR2" name="NADPH Quinone Reductase (Ubiquinone-8)" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_NADPHQR2">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/rhea/29112"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rhea/29111"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rhea/29114"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rhea/29113"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR101891"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn36918"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn08977"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhr/R_NADPHQR2"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhr/NADPHQR2"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhreaction/R_NADPHQR2"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhreaction/NADPHQR2"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seedr/rxn36918"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seedr/rxn08977"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rh/29112"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rh/29111"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rh/29114"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rh/29113"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biggr/NADPH_u8m"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biggr/R_NADPH_u8m"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biggr/R_NADPHQR2"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biggr/NADPHQR2"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/NADPH_u8m"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/R_NADPH_u8m"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/R_NADPHQR2"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/NADPHQR2"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/1.6.5.2"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/1.6.99.6"/>
-                  <rdf:li rdf:resource="https://identifiers.org/brenda/1.6.5.2"/>
-                  <rdf:li rdf:resource="https://identifiers.org/brenda/1.6.99.6"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_nadph_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_q8_c" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_nadp_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_q8h2_c" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_LKBDOH_03074"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_NADPHQR3" sboTerm="SBO:0000176" id="R_NADPHQR3" name="NADPH Quinone Reductase (Menaquinone-8)" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -143373,53 +143119,6 @@
             <fbc:geneProductRef fbc:geneProduct="G_LKBDOH_03691"/>
           </fbc:and>
         </fbc:geneProductAssociation>
-      </reaction>
-      <reaction metaid="meta_R_NTRIR3pp" sboTerm="SBO:0000185" id="R_NTRIR3pp" name="Nitrite Reductase (Ubiquinole-8, periplasm)" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_NTRIR3pp">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/rhea/29158"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rhea/29155"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rhea/29156"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rhea/29157"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR102064"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn30504"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn09018"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rh/29158"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rh/29155"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rh/29156"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rh/29157"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seedr/rxn30504"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seedr/rxn09018"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhr/NO2rPuq"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhr/R_NO2rPuqpp"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhr/NO2rPuqpp"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhr/R_NO2rPuq"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/NTRIR3pp"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/R_NTRIR3pp"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biggr/NTRIR3pp"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biggr/R_NTRIR3pp"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhreaction/R_NO2rPuq"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhreaction/NO2rPuq"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhreaction/R_NO2rPuqpp"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhreaction/NO2rPuqpp"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_h_p" stoichiometry="2" constant="true"/>
-          <speciesReference species="M_no2_p" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_q8h2_c" stoichiometry="3" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_h2o_p" stoichiometry="2" constant="true"/>
-          <speciesReference species="M_nh4_p" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_q8_c" stoichiometry="3" constant="true"/>
-        </listOfProducts>
       </reaction>
       <reaction metaid="meta_R_NTRIR4pp" sboTerm="SBO:0000185" id="R_NTRIR4pp" name="Nitrite Reductase (Menaquinole-8, periplasm)" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <annotation>
