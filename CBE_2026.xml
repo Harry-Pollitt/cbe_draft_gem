@@ -61963,7 +61963,7 @@
       <parameter sboTerm="SBO:0000625" id="R_EX_o2_e_lower_bound" value="-20" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_EX_pi_e_lower_bound" value="-10" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_EX_so4_e_lower_bound" value="-10" units="mmol_per_gDW_per_hr" constant="true"/>
-      <parameter sboTerm="SBO:0000625" id="R_EX_sucr_e_lower_bound" value="-6.5641" units="mmol_per_gDW_per_hr" constant="true"/>
+      <parameter sboTerm="SBO:0000625" id="R_EX_sucr_e_lower_bound" value="-4.935379" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_EX_zn2_e_lower_bound" value="-10" units="mmol_per_gDW_per_hr" constant="true"/>
     </listOfParameters>
     <listOfReactions>
@@ -159260,93 +159260,6 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_SUCD1" sboTerm="SBO:0000176" id="R_SUCD1" name="Succinate dehydrogenase" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_0_bound">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_SUCD1">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/1.3.5.1"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/1.3.99.1"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rhea/30346"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rhea/30343"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rhea/30344"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rhea/30345"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR192659"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR99636"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R00408"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn34271"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn00288"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn30176"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rh/30346"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rh/30343"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rh/30344"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rh/30345"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biggr/R_SUCD1"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biggr/SUCD1"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biggr/R_FRDm"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biggr/R_SUCD1m_1"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biggr/SUCD1m"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biggr/R_SUCD1m"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biggr/SUCD1m_1"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biggr/FRDm"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biggr/SUCDHh"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biggr/R_SUCDHh"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biggr/R_FRD"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biggr/FRD"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhreaction/R_SUCD1"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhreaction/SUCD1"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhreaction/SUCD1m"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhreaction/R_SUCD1m"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhreaction/R_SUCD1i"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhreaction/SUCD1i"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/R_SUCD1"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/SUCD1"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/R_FRDm"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/R_SUCD1m_1"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/SUCD1m"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/R_SUCD1m"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/SUCD1m_1"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/FRDm"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/SUCDHh"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/R_SUCDHh"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/R_FRD"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/FRD"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhr/R_SUCD1"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhr/SUCD1"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhr/SUCD1m"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhr/R_SUCD1m"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhr/R_SUCD1i"/>
-                  <rdf:li rdf:resource="https://identifiers.org/vmhr/SUCD1i"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seedr/rxn34271"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seedr/rxn00288"/>
-                  <rdf:li rdf:resource="https://identifiers.org/seedr/rxn30176"/>
-                  <rdf:li rdf:resource="https://identifiers.org/sabiork.reaction/865"/>
-                  <rdf:li rdf:resource="https://identifiers.org/keggr/R00408"/>
-                  <rdf:li rdf:resource="https://identifiers.org/sabiorkr/865"/>
-                  <rdf:li rdf:resource="https://identifiers.org/brenda/1.3.5.1"/>
-                  <rdf:li rdf:resource="https://identifiers.org/brenda/1.3.99.1"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_fad_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_succ_c" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_fadh2_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_fum_c" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:and>
-            <fbc:geneProductRef fbc:geneProduct="G_LKBDOH_00169"/>
-            <fbc:geneProductRef fbc:geneProduct="G_LKBDOH_00170"/>
-            <fbc:geneProductRef fbc:geneProduct="G_LKBDOH_00171"/>
-          </fbc:and>
-        </fbc:geneProductAssociation>
-      </reaction>
       <reaction metaid="meta_R_SUCD5_BS" sboTerm="SBO:0000185" id="R_SUCD5_BS" name="Succinate dehydrogenase" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -167904,7 +167817,7 @@
           <speciesReference species="M_fdxox_c" stoichiometry="2" constant="true"/>
         </listOfProducts>
       </reaction>
-      <reaction id="R_SUCD2" name="Succinate dehydrogenase (menaquinone 8 as acceptor)" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
+      <reaction id="R_SUCD2" name="Succinate dehydrogenase (menaquinone 8 as acceptor)" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference species="M_succ_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_mqn7_c" stoichiometry="1" constant="true"/>
