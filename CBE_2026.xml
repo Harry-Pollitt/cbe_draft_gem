@@ -145724,9 +145724,7 @@
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
-            <fbc:geneProductRef fbc:geneProduct="G_LKBDOH_01639"/>
             <fbc:geneProductRef fbc:geneProduct="G_LKBDOH_03849"/>
-            <fbc:geneProductRef fbc:geneProduct="G_LKBDOH_04148"/>
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
